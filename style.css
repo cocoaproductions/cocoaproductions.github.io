@@ -1,0 +1,53 @@
+h1 {
+    	font-size: xx-large;
+	margin-top: 32px;
+	font-weight: bold;
+}
+
+body {
+	font-family: "Helvetica","Arial", sans-serif;	
+}
+
+.logo {
+	background: -webkit-image-set( url(images/logo.png) 1x, 
+						       url(images/logo_2x.png) 2x,
+						       url(images/logo_3x.png) 3x);
+
+	background-image: image-set( url(images/logo.png) 1x,
+		     			             url(images/logo_2x.png) 2x,
+		     			             url(images/logo_3x.png) 3x);
+	height: 100px;
+	width: 100px;
+	background-size: 100px 100px;	
+	background-repeat: no-repeat;
+	display: block;
+}
+
+.content {
+	padding-top: 60px;
+	max-width: 400px;
+	margin: auto;
+}
+
+h1 strong {
+	font-size: 75%;
+	opacity: 0.75;
+}
+
+#message {
+	padding-top: 60px;
+}
+
+footer {
+	padding-top: 60px;
+}
+
+footer p {
+	font-size: small;
+	color: darkgray;
+}
+
+footer a {
+	color: inherit;
+}
+
