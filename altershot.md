@@ -1,35 +1,22 @@
-<h2 class="appName">Altershot</h2>
-<p class="hero">Professional Screenshot Tool</p>
+<h2 class="appName">Altershot: Status Bar Editor</h2>
+<p class="hero">Professional screenshot tool.</p>
 
 <a href="https://geo.itunes.apple.com/us/app/altershot-screenshot-editor/id911930618?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
 
 <img src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="status bar with time 9:41 and full battery" style="width: 375px; height:108px;">
 
 <p>
-	Attention to detail matters. Altershot is screenshot editor 
-	for cleaning status bar.
+	Altershot is a utility image editor for your screenshots. Attention to detail makes a positive difference. Your app's screenshots can stand out from the rest of the App Store with a professional and clean looking status bar.
 </p>
 <ul>
-	<li>Clean "9:41" full battery look</li>
+	<li>Altershot recognises screenshots from all iPhone, iPad and iPod Touch devices that can run iOS 15.* </li>
 	<li>Photos Extension</li>
-	<li>Edit up to 5 screenshots at a time </li>
-	<li>Delete original</li>
-	<li>Add custom text</li>
-	<li>iOS 11 support</li>
-	<li>Edit screenshots for iPhone, iPad and event Apple Watch</li>
+	<li>Custom text in the status bar</li>
+	<li>Edit multiple screenshots simultaneously </li>
 </ul>
 <p>
-	Lock Screen screenshots is not supported. 
-	But you can always cut status bar out from any screenshot.
+	* Doesn't work with multi colour navigation bar or Lock Screen screenshots. Crop function works for all kind of screenshots.
 </p>
-
-<h3 id="support">Contact</h3>
-
-<p>
-	Email <a href="mailto:hello@cocoa.productions">hello@cocoa.productions</a>
-</p>
-
-<a href="https://twitter.com/altershot">Follow @altershot</a> 
 
 <h3 id="policy">Privacy Policy</h3>
 <p>
