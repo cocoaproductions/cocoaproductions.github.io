@@ -3,6 +3,12 @@
 
 <a href="https://geo.itunes.apple.com/us/app/altershot-screenshot-editor/id911930618?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
 
+<h2>Version 2</h2>
+
+A big update to the Altershot is coming. Almost none of the code is left untouched. You can buy the current version now. Version 2 is a free upgrade for all Altershot owners. We will post release notes here. Stay tuned!
+
+<h2>About</h2>
+
 <img src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="status bar with time 9:41 and full battery" style="width: 375px; height:108px;">
 
 <p>
