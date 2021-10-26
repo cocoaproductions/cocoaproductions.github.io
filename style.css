@@ -24,9 +24,17 @@ body {
 	display: block;
 }
 
-.content {
-	padding-top: 60px;
-	max-width: 400px;
+#box {
+    border: 0;
+    width: 720px;
+    height: auto;
+    margin: 0 auto 0 auto;
+    padding-top: 64px;
+    text-align: left;
+}
+
+.content {	
+	width: 400px;
 	margin: auto;
 }
 
@@ -69,8 +77,9 @@ footer a {
       overflow: hidden;
       background-color: #333;
     position: fixed;
-        top: 0;
+    top: 0;
     width: 100%;
+    min-width: 400px;
 }
 
 #menu li {
