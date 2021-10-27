@@ -5,7 +5,23 @@
 
 <h2>Version 2</h2>
 
-A big update to the Altershot is coming. Almost none of the code is left untouched. You can buy the current version now. Version 2 is a free upgrade for all Altershot owners. We will post release notes here. Stay tuned!
+A big update to the Altershot is here. Almost none of the code is left untouched. Version 2 is a free upgrade for all Altershot owners. 
+
+- New image recognition logic, will allow adding new devices quicker.
+- Altershot now recognises screenshots from all iPhone, iPad and iPod Touch devices that can run iOS 15.
+- Improved launch when in Dark Mode.
+- Updated the welcome and About screens.
+- Added unlimited selection. Selecting a larger amount of files can slow the editor performance.
+- After saving an image editor will now close automatically. You can change this setting by opening Settings app > Altershot.
+- Improved sharpness of screenshots thumbnails.
+- Added alternative interface mode for the system Photos picker. Open Settings > Altershot > Photos and choose "Selected Photos" to enable the system picker.
+- Fixed Screen Time restrictions handling.
+- Fixed the editor issue in which some of the switches could become disabled.
+- Updated for the latest major release of the iOS mobile operating system.
+- Fixed incorrect values for status bar height constant for all devices.
+- iPad mini 2021 support.
+- Resolved the issue when Altershot wouldn’t draw correctly iPad screenshots in landscape
+- Support for iOS 15 iPad multitasking. Can be toggled in the Settings app.
 
 <h2>About</h2>
 
