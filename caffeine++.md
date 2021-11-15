@@ -3,10 +3,10 @@
 
 <!-- <a href="https://geo.itunes.apple.com/us/app/caffeine++/id983386737?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a> -->
 
-<img src="/images/caffeine-watch.jpg" alt="apple watch with Caffeine++ running" style="width: 553px; height: 887px;">
+<img src="/images/caffeine-watch.jpg" alt="apple watch with Caffeine++ running" style="width: 277px; height: 444px;">
 				
 <p>
-	Caffeine++ 2.0 is the most advance and elegant caffeine tracker available on the App Store. We are exciting to bring it to you soon.
+Caffeine++ 2.0 is the most advance and elegant caffeine tracker available for the iPhone and Apple Watch. We are exciting to bring it to you soon.
 </p>
 
 <ul>
