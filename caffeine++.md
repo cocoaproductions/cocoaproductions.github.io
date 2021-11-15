@@ -3,39 +3,31 @@
 
 <!-- <a href="https://geo.itunes.apple.com/us/app/caffeine++/id983386737?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a> -->
 
-<img src="/images/caffeine++-original.png" srcset="/images/caffeine++-original_2x.png 2x" alt="app screenshot with text 1 drink (99 mg) today 150 ml water with a button to add new copy under" style="width: 375px; height: 208px;">
+<img src="/images/caffeine-watch.jpg" alt="apple watch with Caffeine++ running" style="width: 553px; height: 887px;">
 				
 <p>
-	Track your caffeine and water consumption to gain more personal data.
-</p>
-
-<p>
-	Caffeine++ became much better since 1.0 release. 
-	Our goal is to improve and we couldn't do it without help from our users.
+	Caffeine++ 2.0 is the most advance and elegant caffeine tracker available on the App Store. We are exciting to bring it to you soon.
 </p>
 
 <ul>
-	<li>Contribute data to Apple Health</li>
-	<li>Add any amount of your favourite presets for quick logging</li>
-	<li>Rearrange with drag and drop.</li>
-	<li>Use Apple Watch</li>
-	<li>Add your own drinks</li>
-	<li>Customise entry date</li>
-	<li>Water tracking</li>
-	<li>Supports millilitres, fluid ounces and imperial fluid ounces</li>
+<li>Look at a persistent weekly chart to track both coffee and water</li>
+<li>Maintain your database with coffee drinks and set up your favourites for quick tracking</li>
+<li>Monitor drinks counter right from the Apple Watch</li>
+<li>Apple Watch complications, including the weekly chart</li>
+<li>Great native app: Pull to Refresh, Drag and Drop</li>
+<li>Log drinks with the past date</li>
+<li>Ready for iOS 15</li>
+<li>Great privacy, the app works locally and there's no tracking of any kind</li>
+<li>One-time purchase</li>
 </ul>
 
 <p>
 	Please limit your caffeine intake to 200 mg if you are <b>pregnant.</b>
 </p>
+
 <br>
 
 <p>Icons: <a href="http://icons8.com">Icons8</a></p>
-
-<h3 id="support">Contact</h3>
-<p>Email <a href="mailto:hello@cocoa.productions">hello@cocoa.productions</a></p>
-
-<a href="https://twitter.com/caffeinepp">Follow @caffeinepp</a>    
 
 <h3 id="policy">Privacy Policy</h3>
 <p>
