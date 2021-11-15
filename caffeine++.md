@@ -1,7 +1,7 @@
 <h2 class="appName">Caffeine++</h2>
-<p class="hero">Caffeine Tracker</p>
+<p class="hero">Coffee and water tracker.</p>
 
-<a href="https://geo.itunes.apple.com/us/app/caffeine++/id983386737?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
+<!-- <a href="https://geo.itunes.apple.com/us/app/caffeine++/id983386737?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a> -->
 
 <img src="/images/caffeine++-original.png" srcset="/images/caffeine++-original_2x.png 2x" alt="app screenshot with text 1 drink (99 mg) today 150 ml water with a button to add new copy under" style="width: 375px; height: 208px;">
 				
