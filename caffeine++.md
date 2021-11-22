@@ -1,15 +1,16 @@
 <h2 class="appName">Caffeine++</h2>
 <p class="hero">Coffee and water tracker.</p>
 
-<!-- <a href="https://geo.itunes.apple.com/us/app/caffeine++/id983386737?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a> -->
+<a href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
 
-<img src="/images/caffeine-watch.jpg" alt="apple watch with Caffeine++ running" style="width: 277px; height: 444px;">
+<img src="/images/promo-caffeine2.jpg" alt="iPhone 13 and Apple Watch showing Caffeine++ with a weekly chart" style="width: 858px; height: 800px;">
 				
 <p>
 Caffeine++ 2.0 is the most advance and elegant caffeine tracker available for the iPhone and Apple Watch. We are exciting to bring it to you soon.
 </p>
 
 <ul>
+<li>Full Apple Health integration</li>
 <li>Look at a persistent weekly chart to track both coffee and water</li>
 <li>Maintain your database with coffee drinks and set up your favourites for quick tracking</li>
 <li>Monitor drinks counter right from the Apple Watch</li>
