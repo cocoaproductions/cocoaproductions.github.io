@@ -4,6 +4,12 @@
 <a href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
 
 <img src="/images/promo-caffeine2.jpg" alt="iPhone 13 and Apple Watch showing Caffeine++ with a weekly chart" style="width: 429px; height: 400px;">
+
+<h3>Try Before You Buy</h3>
+
+Join TestFlight beta to try the app before you are ready to buy it. We can't offer a demo version, but you are welcome to try the app through TestFlight. It's the same build as the 2.0.0 release from the app store. You can join by following <a href="https://t.co/KB1Hy1v0fx?amp=1">this link.</a>
+
+<h3>About</h3>
 				
 <p>
 Caffeine++ 2.0 is the most advance and elegant caffeine tracker available for the iPhone and Apple Watch. We are exciting to bring it to you soon.
@@ -21,10 +27,6 @@ Caffeine++ 2.0 is the most advance and elegant caffeine tracker available for th
 <li>Great privacy, the app works locally and there's no tracking of any kind</li>
 <li>One-time purchase</li>
 </ul>
-
-<h3>Try Before You Buy</h3>
-
-Join TestFlight beta to try the app before you are ready to buy it. We can't offer a demo version, but you are welcome to try the app through TestFlight. It's the same build as the 2.0.0 release from the app store. You can join by following <a href="https://t.co/KB1Hy1v0fx?amp=1">this link.</a>
 
 <p>
 	Please limit your caffeine intake to 200 mg if you are <b>pregnant.</b>
