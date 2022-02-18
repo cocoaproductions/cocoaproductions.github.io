@@ -5,10 +5,6 @@
 
 <img src="/images/promo-caffeine2.jpg" alt="iPhone 13 and Apple Watch showing Caffeine++ with a weekly chart" style="width: 429px; height: 400px;">
 
-<h3>Try Before You Buy</h3>
-
-Join TestFlight beta to try the app before you are ready to buy it. We can't offer a demo version, but you are welcome to try the app through TestFlight. It's the same build as the 2.0.0 release from the app store. You can join by following <a href="https://t.co/KB1Hy1v0fx?amp=1">this link.</a>
-
 <h3>About</h3>
 				
 <p>
@@ -35,6 +31,10 @@ Caffeine++ 2.0 is the most advance and elegant caffeine tracker available for th
 <br>
 
 <p>Icons: <a href="http://icons8.com">Icons8</a></p>
+
+<h3>Older Versions</h3>
+
+Download Caffeine++ Classic for free from [the App Store.](https://apps.apple.com/app/caffeine-classic/id983386737)
 
 <h3 id="policy">Privacy Policy</h3>
 <p>
