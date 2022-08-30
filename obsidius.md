@@ -3,7 +3,7 @@
 
 <a href="https://apps.apple.com/app/id1597510262" style="display:inline-block;overflow:hidden;background:url(images/mac-app-store.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
 
-<img src="/images/obsidian-promo.png" alt="Two Obsidian windows showing open text files" style="width: 577px; height: 328px;">
+<img src="/images/obsidius-promo.png" alt="Two Obsidian windows showing open text files" style="width: 577px; height: 328px;">
 <br>
 Obsidius is a minimalist personal knowledge manager (PKM). Point to any folder on your Mac and manage your markdown notes. Create auto-updating links between your files which can go in both directions. 
 
