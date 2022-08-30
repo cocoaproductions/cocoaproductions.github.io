@@ -31,7 +31,7 @@ Features you can expect from any great Mac app, thanks to SwiftUI and AppKit.
 
 <h3 id="privacy">Markdown</h3>
 
-Obsidius Markdown parser is based uses SwiftUI.
+Obsidius Markdown parser uses SwiftUI.
 
 <img src="/images/markdown.png" alt="Editor window with preview on a right showing markdown features" style="width: 535px; height: 386px;">
 
