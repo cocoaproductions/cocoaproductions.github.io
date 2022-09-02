@@ -1,9 +1,15 @@
-<h2>Support</h2>
+## Support
 
-<p>Email <a href="mailto:hello@cocoa.productions">hello@cocoa.productions</a></p>
+### Email
 
-<ul>
-<li><a href="https://twitter.com/altershot">Twitter @borisyurkevich</a></li>
-<li><a href="https://twitter.com/altershot">Twitter @altershot</a></li>
-<li><a href="https://twitter.com/altershot">Twitter @caffeinepp</a></li>
-</ul>
+Drop me a line, I read all letters but can't reply to everyone.
+
+[Email](mailto:hello@cocoa.productions)
+
+### Twitter
+
+Follow these twitter accounts for updates and news.
+
+- [LinkEdit](https://twitter.com/LinkEditApp)
+- [Altershot](https://twitter.com/altershot)
+- [Caffeine++](https://twitter.com/caffeinepp)

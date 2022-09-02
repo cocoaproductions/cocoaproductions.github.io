@@ -39,16 +39,20 @@ LinkEdit Markdown parser uses SwiftUI.
 
 Build connections between your notes. 
 
-- Links can be clicked when note is in preview mode.
-- Notes show amount of backlinks in a sidebar and total count of all links in status bar
-- List of backlinks is accessible in a separate Inspector window
-- You can even rename your notes and move them and your links will continue to work, with some limitations described below.
+- Links can be clicked when note is in a preview mode.
+- Notes show amount of backlinks in a sidebar and total count of all links in bottom status bar
+- List of backlinks is accessible in a separate "Inspector" window
+- You can even rename your files and move them. Links will continue to work with  limitations described below.
 
 1. Auto-updating links only can work when you rename your files within the LinkEdit.
 2. You can move your files anytime as long as your file names are unique.
 3. If your file name is not unique, LinkEdit will use full path to your note and will keep it up-to-date whenever possible. This means you can move the file and rename it, link path will update automatically. However you have to do it within LinkEdit.
-4. Links and backlinks metadata stored as JSON files in `/Users/username/Library/Containers/cocoa.productions.Obsidius/Data/Documents/meta/`
-5. Deleting linked file will remove link from metadata, but not text.
+4. Links and backlinks metadata stored as JSON files in the `meta` folder
+```
+/Users/username/Library/Containers/cocoa.productions.Obsidius
+/Data/Documents/meta/
+```
+5. Deleting linked file will remove link from metadata
 6. You can only link to a files within your root folder.
 
 **At this moment LinkEdit backlinks requires your root folder to have a unique name.**
@@ -56,11 +60,15 @@ Navigate to the `meta` folder and delete a folder when necessary to prevent meta
 
 <h3>Sandbox</h3>
 
-- LinkEdit supports Mac App Store sandbox, meaning it does not have access to any files unless you grant access by using Finder open dialog
-- LinkEdit remembers one folder as your default and retains access
-- LinkEdit keeps a list of recently opened folders and you can work with multiple windows
+- LinkEdit supports Mac App Store sandbox, meaning it does not have access to your files unless you grant access in Finder
+- LinkEdit remembers one folder as your default and retains access between app launches
+- LinkEdit keeps a list of recently opened folders and you can work with them in multiple windows
 - Access to non default folder is not saved after you quit LinkEdit, you will have to use the open dialog again
 - You can change default folder in Obsidian preferences `Command + ,`.
+
+<h3>Support</h3>
+
+Drop me a line via [email,](https://www.cocoa.productions/support) and follow LinkEdit on [Twitter.](https://twitter.com/LinkEditApp)
 
 <h3 id="privacy">Privacy Policy</h3>
 
