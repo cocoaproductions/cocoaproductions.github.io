@@ -1,5 +1,5 @@
 <h2 class="appName">Caffeine++ 2</h2>
-<p class="hero">Most advance and elegant caffeine tracker.</p>
+<p class="hero">Most advanced and elegant caffeine tracker.</p>
 
 <a href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
 
