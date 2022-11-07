@@ -1,5 +1,5 @@
 <h2 class="appName">LinkEdit</h2>
-<p class="hero">Say hello to your second brain</p>
+<p class="hero">Say hello to your second brain.</p>
 
 <a href="https://apps.apple.com/app/id1597510262" style="display:inline-block;overflow:hidden;background:url(images/mac-app-store.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
 
