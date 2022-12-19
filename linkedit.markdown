@@ -1,3 +1,8 @@
+---
+permalink: /linkedit.html
+layout: default
+---
+
 <h2 class="appName">LinkEdit</h2>
 <p class="hero">Say hello to your second brain.</p>
 

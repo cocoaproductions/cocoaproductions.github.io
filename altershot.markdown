@@ -1,7 +1,14 @@
+---
+permalink: /altershot.html
+layout: default
+---
+
 <h2 class="appName">Altershot: Status Bar Editor</h2>
 <p class="hero">Professional screenshot tool.</p>
 
 <a href="https://geo.itunes.apple.com/us/app/altershot-screenshot-editor/id911930618?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
+
+<img src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="status bar with time 9:41 and full battery" style="width: 375px; height:108px;">
 
 <h2>Version 2</h2>
 
@@ -24,8 +31,6 @@ A big update to the Altershot is here. Almost none of the code is left untouched
 - Support for iOS 15 iPad multitasking. Can be toggled in the Settings app.
 
 <h2>About</h2>
-
-<img src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="status bar with time 9:41 and full battery" style="width: 375px; height:108px;">
 
 <p>
 	Altershot is a utility image editor for your screenshots. Attention to detail makes a positive difference. Your app's screenshots can stand out from the rest of the App Store with a professional and clean looking status bar.
