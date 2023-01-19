@@ -8,9 +8,11 @@ I've been [writing](https://www.cocoaswitch.com/2022/10/12/caffeine++-2.2/) abou
 
 <img src="{{site.url}}/images/new-complications.png" width="100%" alt="New watch complication which shows number of drinks, mg, and last time updated">
 
-This was an interesting journey that started with version 2.2. The first issue I had to overcome is automatic migration. This didn't work at all during my testing last year. I am not sure why it started working, it could be something improved in Xcode 14.2 or could be forgetting to embed the separate watchOS extension into the Apple Watch app target.
+After I implemented all the widgets families, all I needed to do is to add a new target and embed it inside Apple Watch app.
 
 <img src="{{site.url}}/images/xcode-watch-target.png" width="100%" alt="Frameworks, Libraries, and Embedded Content including .appex extension">
+
+This was an interesting journey that started with version 2.2. The first issue I had to overcome is automatic migration. This didn't work at all during my testing last year. I am not sure why it started working, it could be improved Xcode 14.2 or could be that I didn't had WidgetKit counterpart for every legacy complication. 
 
 The next issue I had was related to performance, and I was able to resolve it by performing all heavy lifting in the app target and then saving the data model into a shared user defaults container, it's just an array with decodable objects. I am also able to calculate how the amount of caffeine will change over time which enabled me to generate a widget timeline. This is one of the features I am adding in the new version and having a single place to implement it is a relief. The advantage of `WidgetKit` is that I can share business logic between iOS widgets and watchOS complications.
 
