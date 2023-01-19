@@ -100,3 +100,7 @@ footer a {
 #menu li a:hover {
   background-color: #111;
 }
+
+.post-date {
+      color: grey;
+}

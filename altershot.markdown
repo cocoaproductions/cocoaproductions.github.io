@@ -1,6 +1,6 @@
 ---
 permalink: /altershot.html
-layout: default
+layout: altershot
 ---
 
 <h2 class="appName">Altershot: Status Bar Editor</h2>

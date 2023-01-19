@@ -4,7 +4,7 @@ title: "Reengineering Caffeine++ Complications with WidgetKit"
 date: 2023-01-18T17:0:8+0000
 ---
 
-I've been [writing](https://www.cocoaswitch.com/2022/10/12/caffeine++-2.2/) about challenges I faced when trying to use `WidgetKit` for Apple Watch complications. With the upcoming update 2.5, we will finally ship watchOS 9 widgets inside Apple Watch app including the  rectangular family which was previously available only on iOS Lock Screen.
+I've been [writing](https://www.cocoaswitch.com/2022/10/12/caffeine++-2.2/) about challenges I faced when trying to use `WidgetKit` for Apple Watch complications. With the upcoming update 2.5, we will finally ship watchOS 9 widgets inside Apple Watch app including the  rectangular family which was previously available only on iOS Lock Screen, highlighted in green.
 
 <img src="{{site.url}}/images/new-complications.png" width="100%" alt="New watch complication which shows number of drinks, mg, and last time updated">
 

@@ -13,6 +13,7 @@ title: Blog
       <h2>
         <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
       </h2>
+      <p class="post-date">{{ post.date | date_to_string: "ordinal" }}</p>
       {{ post.excerpt }}
     </li>
       {% endfor %}

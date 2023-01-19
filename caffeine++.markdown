@@ -1,3 +1,8 @@
+---
+permalink: /caffeine++.html
+layout: caffeine
+---
+
 <h2 class="appName">Caffeine++ 2</h2>
 <p class="hero">Most advanced and elegant caffeine tracker.</p>
 
