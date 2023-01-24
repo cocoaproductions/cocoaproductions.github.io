@@ -10,28 +10,29 @@ layout: caffeine
 
 <img src="/images/promo-caffeine2.jpg" alt="iPhone 13 and Apple Watch showing Caffeine++ with a weekly chart" style="width: 429px; height: 400px;">
 
-<ul>	
-	<li>Tracks your water, sugar, calories, and even caffeine pills</li>
-    <li>Powerful Undo</li>
-    <li>Widgets, including, Lock Screen</li>
-    <li>Siri Shortcuts</li>
-    <li>Weekly Chart</li>
-    <li>Independent Apple Watch app with multiple complications</li>
-    <li>Custom date logging</li>
-    <li>Pull to Refresh, Drag and Drop</li>
-    <li>Full privacy: the app works locally and there's no tracking of any kind</li>
-    <li>Apple Health</li>
-</ul>
 
-<p>
-⚠️ Please limit your caffeine intake to 200 mg if you are <b>pregnant.</b>
-</p>
+- Track caffeine, water, sugar, calories, and pills
+- Widgets, including, Lock Screen
+- Siri Shortcuts
+- Weekly Chart
+- Independent Apple Watch app with multiple complications
+- Pull to Refresh, Drag and Drop
+- Full privacy, the app works locally
+- Apple Health
+- No subscriptions, no ads, no third-party tracking
 
-<h3>Try Before You Buy</h3>
+Unlock all **PRO** features with a single purchase:
+- Undo
+- Display decreasing amount of caffeine with the Half-Life feature
+- Show the last 7 days in the chart
 
-Not ready to buy yet? 
-<a href="https://testflight.apple.com/join/o9hmznWk">Join our beta.</a>
-Or download <a href="https://apps.apple.com/us/app/caffeine-classic/id983386737">Caffeine++ Classic</a> for free.
+⚠️ Please limit your caffeine intake to 200 mg if you are **pregnant.**
+
+The Apple Watch requires Apple Health permissions for sync.
+
+<h3>Social</h3>
+
+Follow us on <a rel="me" href="https://mastodonapp.uk/@caffeine">Mastodon</a>.
 
 <h3 id="policy">Privacy Policy</h3>
 <p>
