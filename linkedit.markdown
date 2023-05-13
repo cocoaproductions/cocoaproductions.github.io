@@ -52,9 +52,9 @@ Build connections between your notes.
 1. Auto-updating links only can work when you rename your files within the LinkEdit.
 2. You can move your files anytime as long as your file names are unique.
 3. If your file name is not unique, LinkEdit will use full path to your note and will keep it up-to-date whenever possible. This means you can move the file and rename it, link path will update automatically. However you have to do it within LinkEdit.
-4. Links and backlinks metadata stored as JSON files in the `meta` folder
+4. Links and backlinks metadata stored as JSON files in the `meta` folder at 
 ```
-/Users/username/Library/Containers/cocoa.productions.Obsidius
+/Users/<user>/Library/Containers/cocoa.productions.Obsidius
 /Data/Documents/meta/
 ```
 5. Deleting linked file will remove link from metadata
