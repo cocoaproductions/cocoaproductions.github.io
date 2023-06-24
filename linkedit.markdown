@@ -10,75 +10,85 @@ layout: default
 
 <img src="/images/obsidius-promo.png" alt="Two LinkEdit windows showing open text files" style="width: 622px; height: 390px;">
 <br>
-LinkEdit is a minimalist personal knowledge manager (PKM). Point to any folder on your Mac and manage your markdown notes. Create auto-updating links between your files which can go in both directions. 
 
-- Free app without subscription  
-- One-time In-App Purchase to unlock unlimited backlinks
-- No tracking or third-party analytics, your notes are fully private to you  
-- Open file system storage   
-- Compatible with iCloud Drive or Dropbox  
-- Auto-updating backlinks  
-- Basic Markdown preview  
-- Open Quickly panel
-- Customisable text editor  
+LinkEdit is a minimalist personal knowledge manager (PKM). Point to any folder on your Mac and manage your markdown notes. Create auto-updating links between your notes which can go in both directions. 
+
+- Built-in file manager and plain text editor
+- Industry-leading privacy, zero tracking and third-party analytics
+- Optional sync with iCloud Drive, OneDrive or any other cloud service  
+- Markdown preview  
+- Quick Open with a search
+- Create permanent links between your notes [Pro]
+- Browse notes metadata, including backlinks with Links Inspector [Pro]
+- No subscriptions, 1 purchase to unlock LinkEdit [Pro]
 
 <h3 id="privacy">Native App</h3>
 
-Features you can expect from any great Mac app, thanks to SwiftUI and AppKit.
+Features you can expect from any good Mac app
 
+- Three-column navigation
 - Multiple windows and tabs
-- Inline file renaming
+- Inline notes renaming
 - Drag and Drop
 - Find and Replace
-- System Spell Checking
+- macOS Spell Checking
 - Automatic theme switching
-- Low memory usage  
+- Low RAM usage  
+- Small app size, less than 7 MB[^1]
+- Built with SwiftUI and AppKit
 
 <h3 id="privacy">Markdown</h3>
 
-LinkEdit Markdown parser uses SwiftUI.
+Basic [Markdown](https://daringfireball.net/projects/markdown/) preview.
 
 <img src="/images/markdown.png" alt="Editor window with preview on a right showing markdown features" style="width: 535px; height: 386px;">
 
 <h3>Backlinks</h3>
 
-Build connections between your notes. 
+Make connections between your notes. 
 
-- Links can be clicked when note is in a preview mode.
-- Notes show amount of backlinks in a sidebar and total count of all links in bottom status bar
-- List of backlinks is accessible in a separate "Inspector" window
-- You can even rename your files and move them. Links will continue to work with  limitations described below.
+- Each note shows backlinks counter
+- List of backlinks is accessible in the Links Inspector window
+- Rename your notes and move them. LinkEdit will do its best to auto-update your links, but it's not possible in all scenarios.
 
-1. Auto-updating links only can work when you rename your files within the LinkEdit.
-2. You can move your files anytime as long as your file names are unique.
-3. If your file name is not unique, LinkEdit will use full path to your note and will keep it up-to-date whenever possible. This means you can move the file and rename it, link path will update automatically. However you have to do it within LinkEdit.
-4. Links and backlinks metadata stored as JSON files in the `meta` folder at 
+<h4>Auto-updating Metadata</h4>
+
+1. Auto-updating links only can work when you rename your notes with LinkEdit
+2. You can move your notes anytime as long as the names are unique
+3. If your note name is not unique, LinkEdit will use the full path to your note and will keep it up-to-date whenever possible. This means you can move a note and rename it without breaking a link
+4. Links and backlinks metadata are stored as `JSON` files at 
 ```
-/Users/<user>/Library/Containers/cocoa.productions.Obsidius
-/Data/Documents/meta/
+~/Library/Containers/LinkEdit/Data/Documents/meta/
 ```
-5. Deleting linked file will remove link from metadata
-6. You can only link to a files within your root folder.
+5. Deleting linked notes will remove the link from the metadata
+6. You can only link to a note within your root folder
 
-**At this moment LinkEdit backlinks requires your root folder to have a unique name.**
+**At this moment LinkEdit backlinks require your root folder to have a unique name.**
 Navigate to the `meta` folder and delete a folder when necessary to prevent metadata mixing between 2 separate root folders AKA "vaults".
 
 <h3>Sandbox</h3>
 
-- LinkEdit supports Mac App Store sandbox, meaning it does not have access to your files unless you grant access in Finder
-- LinkEdit remembers one folder as your default and retains access between app launches
-- LinkEdit keeps a list of recently opened folders and you can work with them in multiple windows
-- Access to non default folder is not saved after you quit LinkEdit, you will have to use the open dialog again
-- You can change default folder in Obsidian preferences `Command + ,`.
+- Full macOS Sandbox support
+- Choose a folder with plain text files as your default
+- Change your default folder at any moment in the app Settings `Command + ,`.
+- You can switch between your recently opened folders
+- You can have only one default folder
+- LinkEdit will persist access to the default folder
 
 <h3>Support</h3>
 
-Drop me a line via [email,](https://www.cocoa.productions/support) and follow LinkEdit on [Twitter.](https://twitter.com/LinkEditApp)
+Drop us a line via [email,](https://www.cocoa.productions/support) and follow LinkEdit on [Twitter.](https://twitter.com/LinkEditApp)
 
 <h3 id="privacy">Privacy Policy</h3>
 
-- LinkEdit has no tracking or third-party analytics, your notes are fully private to you. 
-- LinkEdit does not upload your notes anywhere. 
-- You are welcome to sync the files you own with any tools available such as iCloud Drive.
+- Your notes are fully private to you.
+- Zero third-party tracking and analytics, we only use optional to you Apple tools and services for crash data collection and marketing analytics
+- Fully local client, we don't own any server components.
 
-Last Updated: August 20, 2022
+Last Updated: Jun 24, 2023
+  
+<br />
+<br />
+<br />
+
+[^1]: Obsidian is almost 400 MB, and Apple TextEdit is less than 3 MB.
