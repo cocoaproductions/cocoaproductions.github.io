@@ -46,11 +46,11 @@ Basic [Markdown](https://daringfireball.net/projects/markdown/) preview.
 
 <h3>Permanent Links</h3>
 
-Connect your notes, add links and navigate back using backlinks. 
+Connect your notes using Permanent Links, and navigate back with backlinks. 
 
-• Each note shows backlinks counter  
-• List of backlinks is accessible in the Links Inspector window  
-• Rename your notes and move them. LinkEdit will do its best to auto-update your links, but it's not possible in all scenarios
+• LinkEdit will keep links working even after you rename or move linked notes  
+• Navigate backlinks through the Links Inspector  
+• Display the number of backlinks for every note right in the sidebar, it shows how important a note is  
 
 <h4>Auto-updating metadata</h4>
 
@@ -78,8 +78,8 @@ Drop us a line via [email,](https://www.cocoa.productions/support) and follow Li
 
 <h3 id="privacy">Privacy Policy</h3>
 
-1. Your notes are fully private to you.
-2. Zero third-party tracking and analytics, we only use optional to you Apple tools and services for crash data collection and marketing analytics.
+1. Your notes are fully private to you.  
+2. Zero third-party tracking and analytics, we only use optional to you Apple tools and services for crash data collection and marketing analytics.  
 3. Fully local client, we don't own any server components.
 
 Last Updated: Jun 24, 2023
