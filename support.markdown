@@ -2,7 +2,7 @@
 
 ### Email
 
-Drop me a line, I read all letters but can't reply to everyone.
+We read all the letters but can't reply to all of them.
 
 [Email](mailto:hello@cocoa.productions)
 
