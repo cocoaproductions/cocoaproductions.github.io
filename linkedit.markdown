@@ -44,7 +44,7 @@ Basic [Markdown](https://daringfireball.net/projects/markdown/) preview.
 
 <img src="/images/markdown.png" alt="Editor window with preview on a right showing markdown features" style="width: 535px; height: 386px;">
 
-<h3>Permanent Links</h3>
+<h3>Permanent Links [Pro]</h3>
 
 Connect your notes using Permanent Links, and navigate back with backlinks. 
 
