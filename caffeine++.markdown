@@ -1,6 +1,6 @@
 ---
 permalink: /caffeine++.html
-layout: caffeine
+layout: default
 ---
 
 <h2 class="appName">Caffeine++ 2</h2>

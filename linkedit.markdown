@@ -8,8 +8,7 @@ layout: default
 
 <a href="https://apps.apple.com/app/id1597510262" style="display:inline-block;overflow:hidden;background:url(images/mac-app-store.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
 
-<img src="/images/linkedit-hero.png" alt="Two LinkEdit windows showing open text files" style="width: 640px; height: 400px;">
-<br>
+<img class="screenshot" alt="Two LinkEdit windows showing open text files" src="/images/linkedit-hero_2x.png" alt="Two LinkEdit windows showing open text files" style="width: 1280px;"> 
 
 Personal knowledge manager ([PKM][1]). Point to any folder on your Mac and manage your markdown notes. Create auto-updating links which can go in both directions. 
 
