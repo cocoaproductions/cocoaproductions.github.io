@@ -8,7 +8,7 @@ layout: default
 
 <a href="https://apps.apple.com/app/id1597510262" style="display:inline-block;overflow:hidden;background:url(images/mac-app-store.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
 
-<img src="/images/linkedit-hero-1.2.png" alt="Two LinkEdit windows showing open text files" style="width: 640px; height: 400px;">
+<img src="/images/linkedit-hero.png" alt="Two LinkEdit windows showing open text files" style="width: 640px; height: 400px;">
 <br>
 
 Personal knowledge manager ([PKM][1]). Point to any folder on your Mac and manage your markdown notes. Create auto-updating links which can go in both directions. 
@@ -39,12 +39,12 @@ Features you can expect from any great Mac app.
 • Built with SwiftUI and AppKit
 
 <h3 id="privacy">Markdown</h3>
-<img src="/images/linkedit-markdown-1.2.png" alt="Editor window with preview on a right showing markdown features" style="width: 410px; height: 274px;">
+<img src="/images/linkedit-markdown.png" alt="Editor window with preview on a right showing markdown features" style="width: 410px; height: 274px;">
 
 Basic [Markdown](https://daringfireball.net/projects/markdown/) preview.
 
 <h3>Permanent Links [Pro]</h3>
-<img src="/images/linkedit-sidebar-badge-dark-1.2.png" alt="a sidebar with 2 notes which have badges, shutdown (4) and social (1)" style="widht: 208px; height: 58px;">
+<img src="/images/linkedit-sidebar-badge-dark.png" alt="a sidebar with 2 notes which have badges, shutdown (4) and social (1)" style="widht: 208px; height: 58px;">
 
 Connect your notes using Permanent Links, and navigate back with backlinks. 
 
