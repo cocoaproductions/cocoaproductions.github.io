@@ -11,14 +11,17 @@
 </head>
 <body>
 
-<ul id="menu">
-  <li><a href="/">Cocoa Productions</a></li>
-  <li><a href="/caffeine++">Caffeine++</a></li>
-  <li><a href="/linkedit">LinkEdit</a></li>
-  <li><a href="/altershot">Altershot</a></li>
-  <li><a href="/blog">Blog</a></li>
-  <li><a href="/support">Support</a></li>
-</ul>
+<div id="myTopnav" class="menu">
+  <a href="/">Cocoa Productions</a>
+  <a href="/caffeine++">Caffeine++</a>
+  <a href="/linkedit">LinkEdit</a>
+  <a href="/altershot">Altershot</a>
+  <a href="/blog">Blog</a>
+  <a href="/support">Support</a>
+  <a href="javascript:void(0);" class="icon" onclick="expandMenu()">
+    <img src="/images/menu-bar-white.png" alt="Expand menu"></img>
+  </a>
+</div>
 
 <section class="content"> 
 	{{ content }}
@@ -27,5 +30,17 @@
 		<p>© 2021 <a href="https://micro.cocoaswitch.com/about/">Boris Yurkevich</a>; Mac, iPhone, iPad, iOS are trademark of Apple Inc., registered in the U.S. and other countries.</p>
 	</footer>
 </section>
+
+<script>
+function expandMenu() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "menu") {
+    x.className += " responsive";
+  } else {
+    x.className = "menu";
+  }
+}
+</script>
+
 </body>
 </html>
