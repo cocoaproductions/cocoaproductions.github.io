@@ -3,14 +3,21 @@ permalink: /caffeine++.html
 layout: default
 ---
 
-<h2 class="appName">Caffeine++ 2</h2>
-<p class="hero">Most advanced and elegant caffeine tracker.</p>
+<h2 class="appName">Caffeine++</h2>
+<p class="hero" id="caffeineSlogan">Feel the energy.</p>
 
-<a href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge"></a>
+<img class="screenshot" src="/images/promo-caffeine_2x.png" alt="iPhone 13 mini and Apple Watch showing Caffeine++ with the Weekly Chart" style="width: 708px;">
 
-<img src="/images/promo-caffeine2.jpg" alt="iPhone 13 and Apple Watch showing Caffeine++ with a weekly chart" style="width: 429px; height: 400px;">
+<div class="badgesContainer">
+<a href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge" aria-label="Download on the App Store"></a>
+<div href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(/images/health-badge.svg) no-repeat;width:165px;height:40px;" class="badge" aria-label="Works with Apple Health"></div>
+</div>
 
+<img class="screenshot" title="5 stars, just what I was looking for. Good watch app and health information integration. I use this dally." src="/images/review-box_2x.png" style="width: 343px; padding-bottom: 0;">
 
+<img class="screenshot" alt="5 stars, I use this app several times every day to keep track of my fluid intake from all beverages. It works very well." src="/images/review-box-2_2x.png" style="width: 343px;"> 
+
+Free app
 - Track caffeine, water, sugar, calories, and pills
 - Widgets, including, Lock Screen
 - Siri Shortcuts
@@ -21,43 +28,41 @@ layout: default
 - Apple Health
 - No subscriptions, no ads, no third-party tracking
 
-Unlock all **PRO** features with a single purchase:
+Purchase **Caffeine++ Pro** gives you a lifetime access to
 - Undo
 - Display decreasing amount of caffeine with the Half-Life feature
 - Show the last 7 days in the chart
 
-⚠️ Please limit your caffeine intake to 200 mg if you are **pregnant.**
+🤰 Please limit your caffeine intake to 200 mg if you're pregnant.  
+⌚️ Apple Watch app requires Apple Health permissions for sync.
 
-The Apple Watch requires Apple Health permissions for sync.
+### Privacy policy (updated July 22, 2023)
 
-<h3>Social</h3>
+#### Apple Health access
+
+Caffeine++ works best with read and write access to caffeine, water, sugar, and calories data.
+
+##### Read access
+
+Allows us to present your data in Caffeine++, including, Apple Watch, Siri Shortcuts and even other caffeine trackers. We store this data locally in the app and erase everything older than 1 week.
+
+##### Write access
+
+Allows us to save your data into Apple Health for archiving. You can deny any of these permissions and rely only on the app storage, however, we store your data locally only for 1 week.
+
+#### Privacy summary
+
+- Caffeine++ can use Apple Health access for storing data and displaying daily summary.
+- Caffeine++ doesn’t require any personal user details to be entered anywhere in the app.
+- Caffeine++ and its creators can not be held responsible for any incorrect user data entered in the app.
+- Any user generated data that is entered from Caffeine++ is only stored on a users iPhone and, optionally, on Apple servers.
+- We may store your email address for some time if you send support email to us within the app.
+
+### Third-party contributions
+
+- [Caffeine Informer](https://www.caffeineinformer.com/the-caffeine-database) (data)
+- [Icons8](http://icons8.com) (iconography)
+
+### Social
 
 Follow us on <a rel="me" href="https://mastodonapp.uk/@caffeine">Mastodon</a>.
-
-<h3 id="policy">Privacy Policy</h3>
-<p>
-Caffeine++ cam use Apple Health access for 
-storing data and displaying daily summary. 
-</p>
-<p>
-Caffeine++ doesn’t require any personal user details to be entered anywhere in the app.
-</p> 
-<p>
-Caffeine++ and its creators can not be held responsible for any 
-incorrect user data entered in the app.
-</p>
-<p>
-Any user generated data that is entered from Caffeine++ is 
-only stored on a users iPhone and, optionally, on Apple servers.
-</p>
-<p>
-We may store your email address for some time if you send 
-support email to us within the app.
-</p>
-<p>
-Last Updated: October 28, 2022
-</p>
-
-<br>
-
-<p>Icons: <a href="http://icons8.com">Icons8</a></p>

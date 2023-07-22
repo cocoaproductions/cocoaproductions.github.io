@@ -8,6 +8,10 @@ h1 {
   padding-bottom: 64px;
 }
 
+#caffeineSlogan {
+    padding-bottom: 1em;
+}
+
 body {
 	font-family: "Helvetica","Arial", sans-serif;
 	margin: 0;	
@@ -103,11 +107,7 @@ footer a {
       color: grey;
 }
 
-/* Table */
-
-td {
-  padding-bottom: 64px;
-}
+/* Apps Grid */
 
 #apps-grid {
       display: grid;
@@ -118,10 +118,17 @@ td {
 
 .message {
     font-style: italic;
+    width: 300px;
 }
 
 .screenshot {
     max-width: 100%; 
     height: auto; 
+    padding-bottom: 1em;
+}
+
+/* Caffeine++ */
+
+.badgesContainer > * {
     padding-bottom: 1em;
 }
