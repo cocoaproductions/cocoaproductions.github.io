@@ -4,7 +4,9 @@ layout: default
 ---
 
     <header>
-    <div class="logo" area-label="A friendly desktop computer with a heart icon instead of the Apple logo, and Cocoa Productions written on the screen."></div>
+    <!-- There's no way to make the logo accessible to screen readers -->
+    <!-- A friendly desktop computer with a heart icon instead of the Apple logo, and Cocoa Productions written on the screen.  -->
+    <div class="logo"></div>
     <h1 id="header">
         Cocoa Productions<br>
         <strong>Building Applications for the Mac and Beyond.</strong>
@@ -14,13 +16,13 @@ layout: default
 <div class="wrapper">
     <div class="col1">
         <div class="app1">
-        <a href="/caffeine++"><img class="hero-img" src="images/caffeine-hero.png"></a>
+        <a href="/caffeine++"><img class="hero-img" src="images/caffeine-hero.png" alt="Caffeine++, version 2.5"></a>
         <p class="message">
         <a href="/blog/caffeine-2.5">Caffeine++ 2.5.</a> Now free to download.
         </p>
         </div>
         <div class="app2">
-        <a href="/linkedit"><img class="hero-img" src="images/linkedit-hero.jpg"></a>
+        <a href="/linkedit"><img class="hero-img" alt="LinkEdit. Minimalist personal knowledge manager for the Mac." src="images/linkedit-hero.jpg"></a>
         <p class="message">
         Your second brain says hello. <a href="/blog/linkedit-1.1">1.1 update is here.</a>
         </p>
@@ -29,7 +31,7 @@ layout: default
 
     <div class="col2">
         <div class="app3">
-        <a href="/altershot"><img class="hero-img" src="images/altershot-hero.jpg"></a>
+        <a href="/altershot"><img class="hero-img" src="images/altershot-hero.jpg" alt="2 overlapping abstract screenshots with the status bars highlighted in red."></a>
         <p class="message">
         Does it bother you that your screenshots have inconsistent time? It does bother us! Altershot 2 is here.
         </p>

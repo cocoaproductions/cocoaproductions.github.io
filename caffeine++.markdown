@@ -10,7 +10,7 @@ layout: default
 
 <div class="badgesContainer">
 <a href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge" aria-label="Download on the App Store"></a>
-<div href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(/images/health-badge.svg) no-repeat;width:165px;height:40px;" class="badge" aria-label="Works with Apple Health"></div>
+<div href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(/images/health-badge.svg) no-repeat;width:165px;height:40px;" class="badge"></div>
 </div>
 
 <img class="screenshot" title="5 stars, just what I was looking for. Good watch app and health information integration. I use this dally." src="images/review-box_2x.png" style="width: 343px; padding-bottom: 0;">
