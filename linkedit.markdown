@@ -56,9 +56,9 @@ Connect your notes using Permanent Links, and navigate back with backlinks.
 1. For linked notes with unique names, you can move them anytime from anywhere, including other apps and Finder
 2. If one of the linked notes in your Default Folder has a repeating name, LinkEdit will use the full path to your note and will keep it up-to-date whenever possible. This means you can still move and rename your notes, however, this will only work when move or rename operations performed within the LinkEdit
 4. Starting from version 1.2, links metadata is stored as JSON in every Default Folder, inside the `.linkedit` hidden directory. For example:
-```
-~/Documents/Personal Notes/.linkedit/links.json
-```
+
+`~/Documents/Personal Notes/.linkedit/links.json</code>`
+
 5. Deleting linked notes will remove the link from the metadata
 6. You can only link to a note within the Default Folder
 
