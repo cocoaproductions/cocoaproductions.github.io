@@ -53,7 +53,7 @@ h1 strong {
     width: 300px;
 }
 
-/* Menu 2.0 */
+/* Menu 2.0 https://www.w3schools.com/howto/howto_js_topnav_responsive.asp */
 
 .menu {
   overflow: hidden;
@@ -112,7 +112,8 @@ h1 strong {
 .icon img {
     width: 24px;
     height: 12px;
-    vertical-align: middle;
+    position: relative;
+    top: 1px;
 }
 
 /* Menu 2.0 end */
@@ -195,12 +196,9 @@ footer a {
     padding-bottom: 1em;
 }
 
-/* Caffeine++ end */
-
-/* 
-
-Credits
-
-How TO - Responsive Top Navigation https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
-
-*/
+code { /* https://developer.mozilla.org/en-US/docs/Web/HTML/Element/code */
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: courier, monospace;
+    padding: 0 3px;
+}

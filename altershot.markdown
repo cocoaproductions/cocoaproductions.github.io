@@ -6,7 +6,7 @@ layout: default
 <h1 class="appName">Altershot</h1>
 <p class="hero">Professional screenshot tool.</p>
 
-<img src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="Status bar with time 9:41 and full battery." style="width: 375px; height:108px;">
+<img class="screenshot" src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="Status bar with time 9:41 and full battery." style="width: 375px;">
 
 <a href="https://geo.itunes.apple.com/us/app/altershot-screenshot-editor/id911930618?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge" aria-label="Download on the App Store"></a>
 

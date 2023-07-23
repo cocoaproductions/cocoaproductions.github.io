@@ -20,8 +20,7 @@
 
 title: Cocoa Productions
 email: hello@cocoa.productions
-description: >- # this means to ignore newlines until "baseurl:"
-  "Solo indie software publishing company."
+description: Building Applications for the Mac and Beyond.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.cocoa.productions" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cocoaproductions
