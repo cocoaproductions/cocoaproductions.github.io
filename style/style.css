@@ -5,11 +5,12 @@ h1 {
 }
 
 header {
-    padding-top: 64px;
+    margin: auto;
+    padding: 2em;
 }
 
 #header {
-  padding-bottom: 64px;
+  padding-bottom: 32px;
 }
 
 body {
@@ -32,12 +33,6 @@ body {
 	display: block;
 }
 
-.content {
-	padding-bottom: 32px;
-	padding-left: 32px;
-	padding-right: 32px;
-}
-
 h1 strong {
 	font-size: 75%;
 	opacity: 0.75;
@@ -51,19 +46,6 @@ h1 strong {
 .hero {
     font-size: x-large;
     margin: 0;
-}
-
-footer {
-	padding-top: 60px;
-}
-
-footer p {
-	font-size: small;
-	color: darkgray;
-}
-
-footer a {
-	color: inherit;
 }
 
 .hero-img {
@@ -141,11 +123,34 @@ footer a {
 
 /* Apps Grid */
 
-#apps-grid {
+.content {
+    max-width: 742px;
+    margin: 1em auto;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+ 
+.wrapper {
+    max-width: 742px;
+}
+
+.col1, .col2 {
+    margin-right: auto;
+    margin-left: auto;
+    width: 300px;
+}
+
+.app1, .app2, .app3 {
+    margin-bottom: 64px;
+}
+
+/* Desktop layout only */
+@media screen and (min-width: 614px) {
+    .wrapper {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 16px;
-      width: 648px;
+      column-gap: 5%;
+    }
 }
 
 .message {
@@ -158,6 +163,26 @@ footer a {
     height: auto; 
     padding-bottom: 1em;
 }
+
+/* Footer */
+
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+footer p {
+	font-size: small;
+	color: darkgray;
+}
+
+footer a {
+	color: inherit;
+}
+
 
 /* Caffeine++ */
 

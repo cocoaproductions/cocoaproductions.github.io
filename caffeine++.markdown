@@ -3,7 +3,7 @@ permalink: /caffeine++.html
 layout: default
 ---
 
-<h2 class="appName">Caffeine++</h2>
+<h1 class="appName">Caffeine++</h1>
 <p class="hero" id="caffeineSlogan">Feel the energy.</p>
 
 <img class="screenshot" src="/images/promo-caffeine_2x.png" alt="iPhone 13 mini and Apple Watch showing Caffeine++ with the Weekly Chart" style="width: 708px;">
@@ -36,21 +36,21 @@ Purchase **Caffeine++ Pro** gives you a lifetime access to
 🤰 Please limit your caffeine intake to 200 mg if you're pregnant.  
 ⌚️ Apple Watch app requires Apple Health permissions for sync.
 
-### Privacy policy (updated July 22, 2023)
+## Privacy policy (updated July 22, 2023)
 
-#### Apple Health access
+### Apple Health access
 
 Caffeine++ works best with read and write access to caffeine, water, sugar, and calories data.
 
-##### Read access
+#### Read access
 
 Allows us to present your data in Caffeine++, including, Apple Watch, Siri Shortcuts and even other caffeine trackers. We store this data locally in the app and erase everything older than 1 week.
 
-##### Write access
+#### Write access
 
 Allows us to save your data into Apple Health for archiving. You can deny any of these permissions and rely only on the app storage, however, we store your data locally only for 1 week.
 
-#### Privacy summary
+### Privacy summary
 
 - Caffeine++ can use Apple Health access for storing data and displaying daily summary.
 - Caffeine++ doesn’t require any personal user details to be entered anywhere in the app.
@@ -58,11 +58,11 @@ Allows us to save your data into Apple Health for archiving. You can deny any of
 - Any user generated data that is entered from Caffeine++ is only stored on a users iPhone and, optionally, on Apple servers.
 - We may store your email address for some time if you send support email to us within the app.
 
-### Third-party contributions
+## Third-party contributions
 
 - [Caffeine Informer](https://www.caffeineinformer.com/the-caffeine-database) (data)
 - [Icons8](http://icons8.com) (iconography)
 
-### Social
+## Social
 
 Follow us on <a rel="me" href="https://mastodonapp.uk/@caffeine">Mastodon</a>.

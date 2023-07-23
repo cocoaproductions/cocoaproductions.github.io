@@ -1,12 +1,17 @@
-## Support
+---
+permalink: /support.html
+layout: default
+---
 
-### Email
+# Support
+
+## Email
 
 We read all the letters but can't reply to all of them.
 
 [Email](mailto:hello@cocoa.productions)
 
-### Mastodon
+## Mastodon
 
 Follow these accounts for updates and news.
 

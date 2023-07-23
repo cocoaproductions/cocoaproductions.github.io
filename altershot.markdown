@@ -3,7 +3,7 @@ permalink: /altershot.html
 layout: default
 ---
 
-<h2 class="appName">Altershot</h2>
+<h1 class="appName">Altershot</h1>
 <p class="hero">Professional screenshot tool.</p>
 
 <img src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="Status bar with time 9:41 and full battery." style="width: 375px; height:108px;">
