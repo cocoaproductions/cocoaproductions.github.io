@@ -6,7 +6,7 @@ layout: default
 <h1 class="appName">LinkEdit</h1>
 <p class="hero">Plain text haven.</p>
 
-<img class="screenshot" alt="Two LinkEdit windows showing open text files" src="images/linkedit-hero_2x.png" style="width: 1280px;"> 
+<img class="screenshot" alt="Two LinkEdit windows showing open text files" src="/images/linkedit-hero_2x.png" style="width: 1280px;"> 
 
 <a href="https://apps.apple.com/app/id1597510262" style="display:inline-block;overflow:hidden;background:url(images/mac-app-store.svg) no-repeat;width:165px;height:40px;" class="badge" aria-label="Download on the App Store"></a>
 
@@ -38,12 +38,12 @@ Features you can expect from any great Mac app.
 • Built with SwiftUI and AppKit
 
 ## Markdown
-<img class="screenshot" alt="Editor window with preview on a right showing markdown features." src="images/linkedit-markdown_2x.png" style="width: 912px;"> 
+<img class="screenshot" alt="Editor window with preview on a right showing markdown features." src="/images/linkedit-markdown_2x.png" style="width: 912px;"> 
 
 Basic [Markdown](https://daringfireball.net/projects/markdown/) preview.
 
 ## Permanent Links [Pro]
-<img src="images/linkedit-sidebar-badge-dark.png" alt="A sidebar with 2 notes which have badges, shutdown (4) and social (1)" style="width: 208px; height: 58px;">
+<img src="/images/linkedit-sidebar-badge-dark.png" alt="A sidebar with 2 notes which have badges, shutdown (4) and social (1)" style="width: 208px; height: 58px;">
 
 Connect your notes using Permanent Links, and navigate back with backlinks. 
 
