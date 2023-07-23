@@ -112,7 +112,8 @@ h1 strong {
 .icon img {
     width: 24px;
     height: 12px;
-    vertical-align: middle;
+    position: relative;
+    top: 1px;
 }
 
 /* Menu 2.0 end */
