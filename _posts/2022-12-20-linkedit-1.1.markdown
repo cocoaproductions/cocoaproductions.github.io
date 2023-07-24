@@ -6,8 +6,6 @@ date:   2022-12-20 13:11:30 +0000
 
 This update focuses on the core design of the app and changes the navigation layout. The New 3-column layout will fill familiar if you used Notes,  [Ulysses](https://ulysses.app) and Mail. The older version showed files and folders in a single sidebar. The new version separates folders from files. It makes a difference if you have many folders and notes, finding what you need is much easier. 
 
-<img src="{{site.url}}/images/linkedit-update1.png" width="507" alt="An app window which shows sidebar with list of files, no folders and edtitor.">
-
 What you might notice as well is performance. Everything is faster now, and the editor no longer recreated when switching between modes. In the past, it caused a loss of the cursor position. Files will load faster, and the preview is now instant, while in the past it had a 1-second update interval.
 
 This update requires macOS 13. It was a good opportunity to try all SwiftUI improvements from this year. It's still a long journey for SwiftUI on the Mac to have feature parity with AppKit, but many things I had to rely on AppKit or couldn't do at all, are now available in SwiftUI. I especially like new window management changes which allow me to set the default location and size for windows. In addition, I finally can disable the zoom button for some of my windows. Previously, I had to rely on a hack and hide those buttons after the window appear and you sometimes could see the glitch. Finally, just to open a new window is now 1 line of code in SwiftUI which replaces almost 30 lines of the AppKit code.
