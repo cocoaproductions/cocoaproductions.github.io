@@ -18,7 +18,7 @@ This Apple Watch app allows you to save PIN codes and access them quickly and pr
 ✅ You need a quick way to access your frequently used PIN codes  
 ✅ You run iOS 17 paired with watchOS 10
 
-If this these green for you, you must try PINBook. My mission is to improve your comfort in life. I use PINBook just for a week and already benefit from it daily.
+If this these green for you, you must try PINBook. My goal is to improve your comfort of life. I use PINBook just for a week and already benefit from it daily.
 
 ### Features ###
 
