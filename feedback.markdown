@@ -1,9 +1,9 @@
 ---
-permalink: /support.html
+permalink: /feedback.html
 layout: default
 ---
 
-# Support
+# Feedback
 
 ## Email
 
@@ -15,5 +15,6 @@ We read all the letters but can't reply to all of them.
 
 Follow these accounts for updates and news.
 
+- [PINBook](https://mastodonapp.uk/@pinbook)
 - [Caffeine++](https://mastodonapp.uk/@caffeine)
 - [LinkEdit](https://mastodonapp.uk/@linkedit)
