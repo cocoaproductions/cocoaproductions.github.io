@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Join PINBook TestFlight demo"
+date: 2023-09-30T8:29:57+0100
+---
+
 I am thrilled to announce, we are launching the first public demo for our newest product. 
 
 [Join PINBook beta testing now.](https://testflight.apple.com/join/k5fOnkxq)
