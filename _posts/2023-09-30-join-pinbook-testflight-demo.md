@@ -4,7 +4,7 @@ title: "Join PINBook TestFlight demo"
 date: 2023-09-30T8:29:57+0100
 ---
 
-I am thrilled to announce, we are launching the first public demo for our newest product. 
+We are thrilled to announce the first public demo of our newest product. 
 
 [Join PINBook beta testing now.](https://testflight.apple.com/join/k5fOnkxq)
 
@@ -12,13 +12,13 @@ The demo is free to join and you will be able to experience all the features fir
 
 ### Why you should be interested ###
 
-This Apple Watch app allows you to save PIN codes and access them quickly and privately via Smart Stack or Accessory Rectangular complication. 
+PINBook allows you to save PIN codes and access them quickly and privately via Smart Stack or Accessory Rectangular complication.
 
 ✅ You own an Apple Watch  
 ✅ You need a quick way to access your frequently used PIN codes  
 ✅ You run iOS 17 paired with watchOS 10
 
-If this these green for you, you must try PINBook. My goal is to improve your comfort of life. I use PINBook just for a week and already benefit from it daily.
+If these are green for you, you should try PINBook. When we worked on PINBook, our goal was to create a utility function with increased quality of life. Because people carry their watches all day long, PINBook can save chunks of time through brief interactions.
 
 ### Features ###
 
