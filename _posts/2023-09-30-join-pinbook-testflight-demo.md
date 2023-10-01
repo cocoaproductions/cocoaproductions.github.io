@@ -18,7 +18,7 @@ PINBook allows you to save PIN codes and access them quickly and privately via S
 ✅ You need a quick way to access your frequently used PIN codes  
 ✅ You run iOS 17 paired with watchOS 10
 
-If these are green for you, you should try PINBook. When we worked on PINBook, our goal was to create quality of life utility function. Because people carry their watches all day long, PINBook can save chunks of time through brief interactions.
+If these are green for you, you should try PINBook. When we worked on PINBook, our goal was quality of life improvements. We archiving this with fast performance and innovative utility. Because people carry their watches all day long, PINBook can save chunks of time through brief interactions.
 
 ### Features ###
 
