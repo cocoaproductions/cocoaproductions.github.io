@@ -15,6 +15,6 @@ We read all the letters but can't reply to all of them.
 
 Follow these accounts for updates and news.
 
-- [PINBook](https://mastodonapp.uk/@pinbook)
+- [Pero](https://mastodonapp.uk/@pero)
 - [Caffeine++](https://mastodonapp.uk/@caffeine)
 - [LinkEdit](https://mastodonapp.uk/@linkedit)
