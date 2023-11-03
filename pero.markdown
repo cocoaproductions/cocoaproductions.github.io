@@ -6,7 +6,7 @@ layout: default
 <h2 class="appName">Pero</h2>
 <p class="hero">Be a password hero.</p>
 
-Pero empowers you to create passwords and look them up everywhere you go.
+Pero empowers you to create passwords and look them up anywhere you go.
 
 - 🔢 Generate new passwords
 - 🏷️ Organise them by tags, e.g. Home, Work
