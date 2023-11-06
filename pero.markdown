@@ -3,32 +3,27 @@ permalink: /pero.html
 layout: default
 ---
 
+<link rel="stylesheet" href="style/hero.css">
+
 <h2 class="appName">Pero</h2>
-<p class="hero">Be a passcode hero.</p>
+<p class="hero">Be a password hero.</p>
+
+<iframe class="ad" src="https://player.vimeo.com/video/880931232?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="fullscreen; picture-in-picture" title="Passcode hero."></iframe>
+
+<a class="callToAction" href="https://testflight.apple.com/join/k5fOnkxq">Join Our Fight Against Forgotten Passwords Today.</a>
 
 Pero empowers you to create passcodes and look them up anywhere you go.
 
-- 🔢 Generate new passcodes[^1]
+- 🔢 Generate new passwords[^1]
 - 🏷️ Organise them by tags, e.g. Home, Work
 - 🔒 Hardware-encrypted storage[^2]
 - ⌚️ Look up to 6 passcodes with Smart Stack widget
 
+
 <p><img class="screenshot" alt="Apple Watch Smart Stack showing Pero widget with 4 short passcodes." src="/images/pero-hero_2x.png" style="width: 220px; padding-bottom: 0;" /></p>
 
-### Watch ad
-
-<iframe  src="https://player.vimeo.com/video/880931232?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="auto" height="auto" frameborder="0" allow="fullscreen; picture-in-picture" title="Passcode hero."></iframe>
-
-### Join the beta
-
 - [Download from TestFlight for free](https://testflight.apple.com/join/k5fOnkxq)
-
-### Feedback
-
-- [Email](https://www.cocoa.productions/support) 
-
-### Follow us on Mastodon
-
+- [Send your feedback through email](https://www.cocoa.productions/support) 
 - Follow Pero on <a rel="me" href="https://mastodonapp.uk/@pero">Mastodon</a>
 - Read [System security for watchOS](https://support.apple.com/en-gb/guide/security/secc7d85209d/web)
 
