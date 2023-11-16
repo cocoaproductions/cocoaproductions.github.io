@@ -8,7 +8,7 @@ layout: default
 
 <img class="screenshot" src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="Status bar with time 9:41 and full battery." style="width: 375px;">
 
-<a href="https://geo.itunes.apple.com/us/app/altershot-screenshot-editor/id911930618?mt=8&at=1010l4GJ" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge" aria-label="Download on the App Store"></a>
+<a href="https://apps.apple.com/us/app/altershot-status-bar-editor/id911930618?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1417564800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 <h2>Version 2</h2>
 

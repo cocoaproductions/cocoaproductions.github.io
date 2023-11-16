@@ -10,8 +10,6 @@ layout: default
 
 <iframe class="ad" src="https://player.vimeo.com/video/880931232?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="fullscreen; picture-in-picture" title="Passcode hero."></iframe>
 
-<a class="callToAction" href="https://testflight.apple.com/join/k5fOnkxq">Join Our Fight Against Forgotten Passwords Today.</a>
-
 Pero empowers you to create passcodes and look them up anywhere you go.
 
 - 🔢 Generate new passwords[^1]
@@ -22,10 +20,12 @@ Pero empowers you to create passcodes and look them up anywhere you go.
 
 <p><img class="screenshot" alt="Apple Watch Smart Stack showing Pero widget with 4 short passcodes." src="/images/pero-hero_2x.png" style="width: 220px; padding-bottom: 0;" /></p>
 
-- [Download from TestFlight for free](https://testflight.apple.com/join/k5fOnkxq)
+<a href="https://apps.apple.com/us/app/pero/id6452802397?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1699920000" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
 - [Send your feedback through email](https://www.cocoa.productions/support) 
 - Follow Pero on <a rel="me" href="https://mastodonapp.uk/@pero">Mastodon</a>
 - Read [System security for watchOS](https://support.apple.com/en-gb/guide/security/secc7d85209d/web)
+- [Try before you buy (TestFlight)](https://testflight.apple.com/join/k5fOnkxq)
 
 <h3 id="privacy">Privacy policy</h3>
 

@@ -8,11 +8,6 @@ layout: default
 
 <img class="screenshot" src="/images/promo-caffeine_2x.png" alt="iPhone 13 mini and Apple Watch showing Caffeine++ with the Weekly Chart" style="width: 708px;">
 
-<div class="badgesContainer">
-<a href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_appstore-lrg.svg) no-repeat;width:165px;height:40px;" class="badge" aria-label="Download on the App Store"></a>
-<div href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(/images/health-badge.svg) no-repeat;width:165px;height:40px;" class="badge"></div>
-</div>
-
 <img class="screenshot" title="5 stars, just what I was looking for. Good watch app and health information integration. I use this dally." src="/images/review-box_2x.png" style="width: 343px; padding-bottom: 0;">
 
 <img class="screenshot" alt="5 stars, I use this app several times every day to keep track of my fluid intake from all beverages. It works very well." src="/images/review-box-2_2x.png" style="width: 343px;"> 
@@ -32,6 +27,10 @@ Purchase **Caffeine++ Pro** gives you a lifetime access to
 - Undo
 - Display decreasing amount of caffeine with the Half-Life feature
 - Show the last 7 days in the chart
+
+<a href="https://apps.apple.com/us/app/altershot-status-bar-editor/id911930618?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1417564800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
+<div href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(/images/health-badge.svg) no-repeat;width:165px;height:40px;" class="badge"></div>
 
 🤰 Please limit your caffeine intake to 200 mg if you're pregnant.  
 ⌚️ Apple Watch app requires Apple Health permissions for sync.
