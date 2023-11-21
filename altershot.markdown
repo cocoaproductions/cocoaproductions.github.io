@@ -4,7 +4,7 @@ layout: default
 ---
 
 <h1 class="appName">Altershot</h1>
-<p class="hero">Professional screenshot tool.</p>
+<p class="hero">Makes screenshots perfect.</p>
 
 <img class="screenshot" src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="Status bar with time 9:41 and full battery." style="width: 375px;">
 
