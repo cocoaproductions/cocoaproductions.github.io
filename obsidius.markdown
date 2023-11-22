@@ -1,6 +1,7 @@
 ---
 permalink: /obsidius.html
 layout: default
+title: Obsidius - Cocoa Productions
 ---
 
 # Obsidius

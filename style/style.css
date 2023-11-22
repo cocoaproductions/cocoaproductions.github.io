@@ -38,6 +38,14 @@ h1 strong {
 	opacity: 0.75;
 }
 
+p {
+    line-height: 1.2rem;
+}
+
+ul, li {
+    margin: .5rem;
+}
+
 .appName {
     font-size: xx-large;
     margin-bottom: 8px;
@@ -46,6 +54,7 @@ h1 strong {
 .hero {
     font-size: x-large;
     margin: 0;
+    padding-bottom: 0.5em;
 }
 
 .hero-img {

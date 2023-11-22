@@ -1,6 +1,7 @@
 ---
 permalink: /linkedit.html
 layout: default
+title: LinkEdit - Cocoa Productions
 ---
 
 <h1 class="appName">LinkEdit</h1>
@@ -12,30 +13,30 @@ layout: default
 
 Personal knowledge manager ([PKM][1]). Point to any folder on your Mac and manage your markdown notes. Create auto-updating links which can go in both directions. 
 
-• Built-in file manager and plain text editor  
-• Industry-leading privacy, zero tracking and third-party analytics  
-• Optional sync with iCloud Drive, OneDrive or any other cloud service  
-• Markdown preview  
-• Quick Open with a search  
-• Use the `linkedit://open` URL scheme to open individual notes from anywhere  
-• Create Permanent Links between your notes [Pro]  
-• Browse notes metadata, including backlinks with Links Inspector [Pro]  
-• No subscriptions, 1 purchase to unlock LinkEdit [Pro]
+- Built-in file manager and plain text editor  
+- Industry-leading privacy, zero tracking and third-party analytics  
+- Optional sync with iCloud Drive, OneDrive or any other cloud service  
+- Markdown preview  
+- Quick Open with a search  
+- Use the `linkedit://open` URL scheme to open individual notes from anywhere  
+- Create Permanent Links between your notes [Pro]  
+- Browse notes metadata, including backlinks with Links Inspector [Pro]  
+- No subscriptions, 1 purchase to unlock LinkEdit [Pro]
 
 ## Native app
 
 Features you can expect from any great Mac app.
 
-• Three-column navigation  
-• Multiple windows and tabs  
-• Inline notes renaming  
-• Drag and Drop  
-• Find and Replace  
-• macOS Spell Checking  
-• Automatic theme switching  
-• Low RAM usage  
-• Small app size, less than 7 MB[^1]  
-• Built with SwiftUI and AppKit
+- Three-column navigation  
+- Multiple windows and tabs  
+- Inline notes renaming  
+- Drag and Drop  
+- Find and Replace  
+- macOS Spell Checking  
+- Automatic theme switching  
+- Low RAM usage  
+- Small app size, less than 7 MB[^1]  
+- Built with SwiftUI and AppKit
 
 ## Markdown
 <img class="screenshot" alt="Editor window with preview on a right showing markdown features." src="/images/linkedit-markdown_2x.png" style="width: 912px;"> 
@@ -47,9 +48,9 @@ Basic [Markdown](https://daringfireball.net/projects/markdown/) preview.
 
 Connect your notes using Permanent Links, and navigate back with backlinks. 
 
-• LinkEdit will keep links working even after you rename or move linked notes  
-• Navigate backlinks through the Links Inspector  
-• Display the number of backlinks for every note right in the sidebar, it shows how important a note is  
+- LinkEdit will keep links working even after you rename or move linked notes  
+- Navigate backlinks through the Links Inspector  
+- Display the number of backlinks for every note right in the sidebar, it shows how important a note is  
 
 ### Auto-updating metadata
 
@@ -64,12 +65,12 @@ Connect your notes using Permanent Links, and navigate back with backlinks.
 
 ## Sandbox
 
-• Full macOS Sandbox support  
-• Choose a folder with plain text files as your default  
-• Change Default Folder from the Settings `command + ,`  
-• You can switch between your recently opened folders  
-• You can have only one Default Folder  
-• LinkEdit will persist access to the Default Folder
+- Full macOS Sandbox support  
+- Choose a folder with plain text files as your default  
+- Change Default Folder from the Settings `command + ,`  
+- You can switch between your recently opened folders  
+- You can have only one Default Folder  
+- LinkEdit will persist access to the Default Folder
 
 ## Support
 

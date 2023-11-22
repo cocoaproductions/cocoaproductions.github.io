@@ -1,6 +1,7 @@
 ---
 permalink: /caffeine++.html
 layout: default
+title: Caffeine++ - Cocoa Productions
 ---
 
 <h1 class="appName">Caffeine++</h1>

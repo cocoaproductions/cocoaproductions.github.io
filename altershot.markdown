@@ -1,6 +1,7 @@
 ---
 permalink: /altershot.html
 layout: default
+title: Altershot - Cocoa Productions
 ---
 
 <h1 class="appName">Altershot</h1>
