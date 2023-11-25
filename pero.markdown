@@ -22,8 +22,8 @@ Pero empowers you to create passcodes and look them up anywhere you go.
 
 <a href="https://apps.apple.com/us/app/pero/id6452802397?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1699920000" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
-- [Try before you buy (TestFlight)](https://testflight.apple.com/join/k5fOnkxq)
-- [Support](https://cocoa.productions/pero/support/)
+- ✈️ [Try before you buy (TestFlight)](https://testflight.apple.com/join/k5fOnkxq)
+- 📕 [Documentation and support](https://cocoa.productions/pero/support/)
 
 <h2 id="privacy">Privacy policy</h2>
 
