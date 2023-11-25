@@ -7,11 +7,26 @@ title: Altershot - Cocoa Productions
 <h1 class="appName">Altershot</h1>
 <p class="hero">Makes screenshots perfect.</p>
 
-<img class="screenshot" src="/images/altershot-bar.png" srcset="/images/altershot-bar_2x.png 2x" alt="Status bar with time 9:41 and full battery." style="width: 375px;">
+<a href="https://apps.apple.com/us/app/altershot-status-bar-editor/id911930618?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 125px; height: 41.5px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1417564800" alt="Download on the App Store" style="border-radius: 13px; width: 125px; height: 41.5px;"></a>
 
-<a href="https://apps.apple.com/us/app/altershot-status-bar-editor/id911930618?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1417564800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+<img src="/images/altershot.gif" alt="Status bar with time 9:41 and full battery." style="width: 375px;">
 
-<h2>Version 2</h2>
+Altershot is a utility image editor for your screenshots. Attention to detail makes a positive difference. Your app's screenshots can stand out from the rest of the App Store with a professional and clean looking status bar.
+
+- Altershot allows you to modify iOS, iPadOS and watchOS screenshots
+- Non-destructive photo editing
+- Photos editing extension
+- Custom text or 5G logo in the status bar for some devices
+- Select multiple screenshots
+- Automatic status bar cropping
+
+⚠️ Warning, this image editor doesn't work with gradient backgrounds yet.
+
+## Customer reviews
+
+<img src="/images/altershot-reviews.png" width="639" height="472">
+
+## Version 2
 
 A big update to the Altershot is here. Almost none of the code is left untouched. Version 2 is a free upgrade for all Altershot owners. 
 
@@ -30,21 +45,6 @@ A big update to the Altershot is here. Almost none of the code is left untouched
 - iPad mini 2021 support.
 - Resolved the issue when Altershot wouldn’t draw correctly iPad screenshots in landscape
 - Support for iOS 15 iPad multitasking. Can be toggled in the Settings app.
-
-<h2>About</h2>
-
-<p>
-	Altershot is a utility image editor for your screenshots. Attention to detail makes a positive difference. Your app's screenshots can stand out from the rest of the App Store with a professional and clean looking status bar.
-</p>
-<ul>
-	<li>Altershot recognises screenshots from all iPhone, iPad and iPod Touch devices that can run iOS 15.* </li>
-	<li>Photos Extension</li>
-	<li>Custom text in the status bar</li>
-	<li>Edit multiple screenshots simultaneously </li>
-</ul>
-<p>
-	* Doesn't work with multi colour navigation bar or Lock Screen screenshots. Crop function works for all kind of screenshots.
-</p>
 
 <h3 id="policy">Privacy Policy</h3>
 <p>
