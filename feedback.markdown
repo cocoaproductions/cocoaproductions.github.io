@@ -19,6 +19,3 @@ Follow these accounts for updates and news.
 We are small business. We love your feedback, and appreciate your time writing. We try to help best way we can but can't guarantee a timely reply.
 
 📧 [New Message](mailto:hello@cocoa.productions)
-
-<br>
-<br>
