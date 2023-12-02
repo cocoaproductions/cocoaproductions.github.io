@@ -8,11 +8,7 @@ title: Feedback - Cocoa Productions
 
 ## Mastodon
 
-Follow these accounts for updates and news.
-
-- [Pero](https://mastodonapp.uk/@pero)
-- [Caffeine++](https://mastodonapp.uk/@caffeine)
-- [LinkEdit](https://mastodonapp.uk/@linkedit)
+<p>🐘 Cocoa Productions on <a rel="me" href="https://mastodonapp.uk/@CocoaProductions">Mastodon</a>.</p>
 
 ## Email
 
