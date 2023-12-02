@@ -65,4 +65,4 @@ Allows us to save your data into Apple Health for archiving. You can deny any of
 
 ## Social
 
-Follow us on <a rel="me" href="https://mastodonapp.uk/@caffeine">Mastodon</a>.
+Please visit [feedback](/feedback) page.

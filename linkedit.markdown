@@ -74,7 +74,7 @@ Connect your notes using Permanent Links, and navigate back with backlinks.
 
 ## Support
 
-Drop us a line via [email,](https://www.cocoa.productions/support) and follow LinkEdit on <a rel="me" href="https://mastodonapp.uk/@linkedit">Mastodon</a>.
+Please visit [feedback](/feedback) page.
 
 <h2 id="privacy">Privacy Policy</h2>
 
