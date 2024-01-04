@@ -24,7 +24,7 @@ Free app
 - Apple Health
 - No subscriptions, no ads, no third-party tracking
 
-Purchase **Caffeine++ Pro** gives you a lifetime access to
+Purchase **Caffeine++ Pro** ($5.99) gives you a lifetime access to
 - Undo
 - Display decreasing amount of caffeine with the Half-Life feature
 - Show the last 7 days in the chart

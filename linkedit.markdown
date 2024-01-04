@@ -21,7 +21,7 @@ Personal knowledge manager ([PKM][1]). Point to any folder on your Mac and manag
 - Use the `linkedit://open` URL scheme to open individual notes from anywhere  
 - Create Permanent Links between your notes [Pro]  
 - Browse notes metadata, including backlinks with Links Inspector [Pro]  
-- No subscriptions, 1 purchase to unlock LinkEdit [Pro]
+- No subscriptions, 1 purchase ($14.99) to unlock LinkEdit [Pro]
 
 ## Native app
 

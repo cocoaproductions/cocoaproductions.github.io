@@ -11,7 +11,7 @@ title: Altershot - Cocoa Productions
 
 <img src="/images/altershot.gif" alt="Status bar with time 9:41 and full battery." style="width: 375px;" class="screenshot">
 
-Altershot is a utility image editor for your screenshots. Attention to detail makes a positive difference. Your app's screenshots can stand out from the rest of the App Store with a professional and clean looking status bar.
+Altershot ($4.99) is a utility image editor for your screenshots. Attention to detail makes a positive difference. Your app's screenshots can stand out from the rest of the App Store with a professional and clean looking status bar.
 
 - Altershot allows you to modify iOS, iPadOS and watchOS screenshots
 - Non-destructive photo editing

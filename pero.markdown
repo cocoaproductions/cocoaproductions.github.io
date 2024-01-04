@@ -11,7 +11,7 @@ title: Pero - Cocoa Productions
 
 <iframe class="ad" src="https://player.vimeo.com/video/880931232?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="fullscreen; picture-in-picture" title="Passcode hero."></iframe>
 
-Pero empowers you to create passcodes and look them up anywhere you go.
+Pero ($4.99) empowers you to create passcodes and look them up anywhere you go.
 
 - 🔢 Generate new passwords[^1]
 - 🏷️ Organise them by tags, e.g. Home, Work
