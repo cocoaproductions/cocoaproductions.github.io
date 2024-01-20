@@ -76,7 +76,7 @@ Connect your notes using Permanent Links, and navigate back with backlinks.
 - You can have only one Default Folder  
 - LinkEdit will persist access to the Default Folder
 
-### Support
+## Support
 
 Please visit the [feedback](/feedback) page.
 
