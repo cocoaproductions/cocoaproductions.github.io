@@ -13,17 +13,21 @@ title: LinkEdit - Cocoa Productions
 
 Personal knowledge manager ([PKM][1]). Point to any folder on your Mac and manage your markdown notes. Create auto-updating links which can go in both directions. 
 
+### Free download
+
 - Built-in file manager and plain text editor  
 - Industry-leading privacy, zero tracking and third-party analytics  
 - Optional sync with iCloud Drive, OneDrive or any other cloud service  
 - Markdown preview  
 - Quick Open with a search  
 - Use the `linkedit://open` URL scheme to open individual notes from anywhere  
-- Create Permanent Links between your notes [Pro]  
-- Browse notes metadata, including backlinks with Links Inspector [Pro]  
-- No subscriptions, 1 purchase ($14.99) to unlock LinkEdit [Pro]
 
-## Native app
+### LinkEdit [Pro] ($14.99, one-time purchase) 
+
+- Create Permanent Links between your notes
+- Browse notes metadata, including backlinks with Links Inspector
+
+### Native app
 
 Features you can expect from any great Mac app.
 
@@ -38,12 +42,12 @@ Features you can expect from any great Mac app.
 - Small app size, less than 7 MB[^1]  
 - Built with SwiftUI and AppKit
 
-## Markdown
+### Markdown
 <img class="screenshot" alt="Editor window with preview on a right showing markdown features." src="/images/linkedit-markdown_2x.png" style="width: 912px;"> 
 
 Basic [Markdown](https://daringfireball.net/projects/markdown/) preview.
 
-## Permanent Links [Pro]
+### Permanent Links [Pro]
 <img src="/images/linkedit-sidebar-badge-dark.png" alt="A sidebar with 2 notes which have badges, shutdown (4) and social (1)" style="width: 208px; height: 58px;">
 
 Connect your notes using Permanent Links, and navigate back with backlinks. 
@@ -52,10 +56,10 @@ Connect your notes using Permanent Links, and navigate back with backlinks.
 - Navigate backlinks through the Links Inspector  
 - Display the number of backlinks for every note right in the sidebar, it shows how important a note is  
 
-### Auto-updating metadata
+#### Auto-updating metadata
 
 1. For linked notes with unique names, you can move them anytime from anywhere, including other apps and Finder
-2. If one of the linked notes in your Default Folder has a repeating name, LinkEdit will use the full path to your note and will keep it up-to-date whenever possible. This means you can still move and rename your notes, however, this will only work when move or rename operations performed within the LinkEdit
+2. If one of the linked notes in your Default Folder has a repeating name, LinkEdit will use the full path to your note and will keep it up-to-date whenever possible. This means you can still move and rename your notes, however, this will only work when move or rename operations are performed within the LinkEdit
 4. Starting from version [1.2,](/blog/linkedit-1.2) links metadata is stored as JSON in every Default Folder, inside the `.linkedit` hidden directory. For example:
 
 `~/Documents/Personal Notes/.linkedit/links.json`
@@ -63,7 +67,7 @@ Connect your notes using Permanent Links, and navigate back with backlinks.
 5. Deleting linked notes will remove the link from the metadata
 6. You can only link to a note within the Default Folder
 
-## Sandbox
+### Sandbox
 
 - Full macOS Sandbox support  
 - Choose a folder with plain text files as your default  
@@ -72,9 +76,9 @@ Connect your notes using Permanent Links, and navigate back with backlinks.
 - You can have only one Default Folder  
 - LinkEdit will persist access to the Default Folder
 
-## Support
+### Support
 
-Please visit [feedback](/feedback) page.
+Please visit the [feedback](/feedback) page.
 
 <h2 id="privacy">Privacy Policy</h2>
 
