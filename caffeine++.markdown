@@ -25,9 +25,11 @@ Free app
 - No subscriptions, no ads, no third-party tracking
 
 Purchase **Caffeine++ Pro** ($5.99) gives you a lifetime access to
+- Biological Half-Life
 - Undo
-- Display decreasing amount of caffeine with the Half-Life feature
-- Show the last 7 days in the chart
+- Chart customisations
+- Share In-App Purchase with your family
+- Access all upcoming features
 
 <a href="https://apps.apple.com/us/app/altershot-status-bar-editor/id911930618?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1417564800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
