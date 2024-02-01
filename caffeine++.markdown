@@ -38,7 +38,7 @@ Purchase **Caffeine++ Pro** ($5.99) gives you a lifetime access to
 🤰 Please limit your caffeine intake to 200 mg if you're pregnant.  
 ⌚️ Apple Watch app requires Apple Health permissions for sync.
 
-## Privacy policy (updated July 22, 2023)
+<h2 id="policy">Privacy policy (updated July 22, 2023)</h2>
 
 ### Apple Health access
 
