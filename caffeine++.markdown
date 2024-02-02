@@ -38,7 +38,7 @@ Purchase **Caffeine++ Pro** ($5.99) gives you a lifetime access to
 🤰 Please limit your caffeine intake to 200 mg if you're pregnant.  
 ⌚️ Apple Watch app requires Apple Health permissions for sync.
 
-<h2 id="policy">Privacy policy (updated July 22, 2023)</h2>
+<h2 id="policy">Privacy policy (updated 2 February 2024)</h2>
 
 ### Apple Health access
 
@@ -46,7 +46,7 @@ Caffeine++ works best with read and write access to caffeine, water, sugar, and 
 
 #### Read access
 
-Allows us to present your data in Caffeine++, including, Apple Watch, Siri Shortcuts and even other caffeine trackers. We store this data locally in the app and erase everything older than 1 week.
+Allows us to display how much coffee you had directly in Caffeine++. We only store this data locally and erase everything older than 1 week. We even can display data you manually enter in Apple Health or data you log through other caffeine trackers from the App Store.
 
 #### Write access
 
