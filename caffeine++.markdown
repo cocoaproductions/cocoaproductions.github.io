@@ -50,7 +50,7 @@ Allows us to display how much coffee you had directly in Caffeine++. We only sto
 
 #### Write access
 
-Allows us to save your data into Apple Health for archiving. You can deny any of these permissions and rely only on the app storage, however, we store your data locally only for 1 week.
+Allows us to save your data into Apple Health for archiving. You can deny any of the write permissions and rely only on the app storage, however, we store your data locally only for 1 week.
 
 ### Privacy summary
 
