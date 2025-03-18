@@ -7,7 +7,7 @@ title: LinkEdit Terms of Use
 
 **Effective Date:** 18 March 2025
 
-Welcome to "LinkEdit" (the App), available on macOS and iOS, developed in the United Kingdom. By downloading, accessing, or using the App, you agree to these Terms of Use. Please read them carefully.
+Welcome to "LinkEdit" (the App), developed in the United Kingdom. By downloading, accessing, or using the App, you agree to these Terms of Use. Please read them carefully.
 
 ### 1. Acceptance of Terms
 By using this App, you agree to be bound by these Terms of Use and our Privacy Policy. If you do not agree, do not use the App.
