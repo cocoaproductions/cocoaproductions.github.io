@@ -9,23 +9,23 @@ title: LinkEdit - Cocoa Productions
 
 <img class="screenshot" alt="Two LinkEdit windows showing open text files" src="/images/linkedit-hero_2x.png" style="width: 1280px;"> 
 
-<a href="https://apps.apple.com/us/app/linkedit/id1597510262?mt=12&amp;itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1661817600" alt="Download on the Mac App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+Personal knowledge manager ([PKM][1]). Point to any folder and manage your Markdown and plain text notes. Create auto-updating links which can go in both directions. 
 
-Personal knowledge manager ([PKM][1]). Point to any folder on your Mac and manage your markdown notes. Create auto-updating links which can go in both directions. 
+<a href="https://apps.apple.com/us/app/linkedit/id1597510262?itscg=30200&itsct=apps_box_badge&mttnsubad=1597510262" style="display: block; margin: auto; width: 25%; padding: 2em;">
+    <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1661817600" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
+</a>
 
-### Free download
-
-- Built-in file manager and plain text editor  
-- Industry-leading privacy, zero tracking and third-party analytics  
-- Optional sync with iCloud Drive, OneDrive or any other cloud service  
+### Free Features
+- Built-in file manager and plain text editor
+- Industry-leading privacy, zero tracking and third-party analytics
+- Sync with iCloud Drive or any other storage provider
 - Markdown preview  
-- Quick Open with a search  
-- Use the `linkedit://open` URL scheme to open individual notes from anywhere  
-
-### LinkEdit [Pro] ($14.99, one-time purchase) 
-
-- Create Permanent Links between your notes
+- Use the linkedit://open URL scheme to open individual notes from anywhere  
 - Browse notes metadata, including backlinks with Links Inspector
+
+### LinkEdit Pro, ($14.99, one-time purchase)
+- Unlimited Permanent Links
+- Editor customisation
 
 ### Native app
 
@@ -43,7 +43,7 @@ Features you can expect from any great Mac app.
 - Built with SwiftUI and AppKit
 
 ### Markdown
-<img class="screenshot" alt="Editor window with preview on a right showing markdown features." src="/images/linkedit-markdown_2x.png" style="width: 912px;"> 
+<img class="screenshot" alt="Editor window with preview on a right showing Markdown features." src="/images/linkedit-markdown_2x.png" style="width: 912px;"> 
 
 Basic [Markdown](https://daringfireball.net/projects/markdown/) preview.
 
