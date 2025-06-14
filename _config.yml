@@ -21,7 +21,7 @@
 title: Cocoa Productions
 author: Boris Yurkevich
 email: hello@cocoa.productions
-description: Building Applications for the Mac and Beyond.
+description: Kick-ass productivity tools for a Mac and mobile.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.cocoa.productions" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  cocoaproductions
