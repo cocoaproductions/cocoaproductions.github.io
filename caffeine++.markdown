@@ -31,7 +31,7 @@ Purchase **Caffeine++ Pro** ($5.99) gives you a lifetime access to
 - Share In-App Purchase with your family
 - Access all upcoming features
 
-<a href="https://apps.apple.com/us/app/altershot-status-bar-editor/id911930618?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1417564800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+<a href="https://apps.apple.com/app/caffeine/id1594448346" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1417564800" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 <div href="https://apps.apple.com/app/caffeine/id1594448346" style="display:inline-block;overflow:hidden;background:url(/images/health-badge.svg) no-repeat;width:165px;height:40px;" class="badge"></div>
 
