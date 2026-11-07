@@ -8,7 +8,10 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # gem "jekyll", "~> 4.3.1"
-gem "github-pages", "~> 227", group: :jekyll_plugins
+gem "github-pages", ">= 232", "< 300", group: :jekyll_plugins
+
+# Ruby 3 no longer bundles the server used by `jekyll serve`.
+gem "webrick", "~> 1.9"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
