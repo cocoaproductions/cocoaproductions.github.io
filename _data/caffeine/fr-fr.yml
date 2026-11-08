@@ -1,0 +1,49 @@
+---
+title: Caffeine++ - Cocoa Productions
+description: Prenez soin de votre sommeil en suivant votre consommation quotidienne de caféine.
+hero_alt: Caffeine++ affichant le graphique « Prêt à dormir » et les boissons favorites
+app_store_locale: fr-fr
+app_store_alt: Télécharger dans l’App Store
+health_alt: Compatible avec Apple Santé
+intro: Prenez soin de votre sommeil en suivant votre consommation quotidienne de caféine.
+features:
+- Ready to Sleep — suivez votre niveau de préparation au sommeil
+- One Tap Log — enregistrez les portions de vos boissons favorites en un geste
+- Suivez votre consommation de caféine, d’eau, de sucre, de calories, de comprimés et d’alcool
+- Retrouvez toutes vos boissons favorites dans l’app Apple Watch, sans avoir besoin de votre iPhone
+- Synchronisation avec Apple Santé
+- Classez vos boissons par établissement
+- Données stockées localement, aucune télémétrie, aucun test A/B, aucune publicité
+- Développée par une seule personne
+- Une app maintenue depuis plus de 4 ans
+pro_intro: 'Débloquez **Caffeine++ Pro** avec un achat unique à vie :'
+pro_features:
+- Rappels
+- Modification de l’historique et annulation des saisies
+- Importation et exportation des données
+- Partage de votre achat intégré avec votre famille
+- Accès à toutes les fonctionnalités à venir
+notes:
+- "🤰 Si vous êtes enceinte, veuillez limiter votre consommation de caféine à 200 mg."
+- "⌚️ L’app Apple Watch nécessite les autorisations Apple Santé pour la synchronisation."
+privacy:
+  heading: Politique de confidentialité (mise à jour le 2 février 2024)
+  access_heading: Accès à Apple Santé
+  access_text: Caffeine++ fonctionne de manière optimale avec un accès en lecture et en écriture aux données de caféine, d’eau, de sucre et de calories.
+  read_heading: Accès en lecture
+  read_text: Cet accès nous permet d’afficher directement dans Caffeine++ la quantité de café que vous avez consommée. Nous stockons ces données uniquement en local et supprimons toutes celles datant de plus d’une semaine. Nous pouvons également afficher les données que vous saisissez manuellement dans Apple Santé ou que vous enregistrez avec d’autres apps de suivi de la caféine disponibles sur l’App Store.
+  write_heading: Accès en écriture
+  write_text: Cet accès nous permet d’enregistrer vos données dans Apple Santé pour les archiver. Vous pouvez refuser n’importe quelle autorisation d’écriture et utiliser uniquement le stockage de l’app. Toutefois, nous ne conservons vos données en local que pendant une semaine.
+  summary_heading: Résumé de la politique de confidentialité
+  summary:
+  - Caffeine++ peut utiliser l’accès à Apple Santé pour stocker des données et afficher un récapitulatif quotidien.
+  - Caffeine++ ne vous demande de saisir aucune information personnelle dans l’app.
+  - Caffeine++ et ses créateurs ne peuvent être tenus responsables des données incorrectes saisies par l’utilisateur dans l’app.
+  - Les données saisies par l’utilisateur dans Caffeine++ sont stockées uniquement sur son iPhone et, s’il le souhaite, sur les serveurs d’Apple.
+  - Nous pouvons conserver votre adresse e-mail pendant un certain temps si vous nous envoyez une demande d’assistance par e-mail depuis l’app.
+contributions_heading: Contributions de tiers
+contributions:
+- "[Caffeine Informer](https://www.caffeineinformer.com/the-caffeine-database) (données)"
+- "[Icons8](http://icons8.com) (icônes)"
+social_heading: Nous contacter
+social_text: Consultez notre [page de contact](/feedback/fr-fr/).

@@ -1,28 +1,45 @@
+{%- assign locale = page.lang | default: 'en' | downcase -%}
+{%- if page.copy -%}
+{%- assign localized_copy = site.data[page.copy][locale] -%}
+{%- endif -%}
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: 'en' }}">
 <head>
-	<title>{{ page.title }}</title>
+	<title>{{ localized_copy.title | default: page.title | escape }}</title>
     <!-- Website version 2.1.1 -->
-	<link rel="apple-touch-icon" href="apple-touch-icon.png">
-	<link rel="icon" href="/images/favicon.ico" sizes="16x16 32x32" type="image/x-icon">
-	<link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+	<link rel="icon" href="/favicon.ico" sizes="16x16 32x32" type="image/x-icon">
+	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-precomposed.png">
 	<link href="/style/style.css" rel="stylesheet">
 	<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="{{ site.description }}">
+	<meta name="description" content="{{ localized_copy.description | default: page.description | default: site.description | escape }}">
 	<meta name="generator" content="BBEdit 12.6">
+    {% if page.english_url and page.french_url %}
+    {% if page.lang == 'fr-FR' %}
+    <link rel="canonical" href="{{ page.french_url | absolute_url }}">
+    {% else %}
+    <link rel="canonical" href="{{ page.english_url | absolute_url }}">
+    {% endif %}
+    <link rel="alternate" hreflang="en" href="{{ page.english_url | absolute_url }}">
+    <link rel="alternate" hreflang="fr-FR" href="{{ page.french_url | absolute_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ page.english_url | absolute_url }}">
+    {% if page.lang != 'fr-FR' %}
+    {% include french-redirect.html %}
+    {% endif %}
+    {% endif %}
 </head>
 <body>
 
-<div id="myTopnav" class="menu">
+<div id="myTopnav" class="menu" lang="en">
   <a href="/">Cocoa Productions</a>
-  <a href="/caffeine++">Caffeine++</a>
+  <a href="/caffeine++{% if page.lang == 'fr-FR' %}/fr-fr/{% endif %}">Caffeine++</a>
   <a href="/altershot">Altershot</a>
   <a href="/linkedit">LinkEdit</a>
   <a href="/pinbook.html">Pinbook</a> 
 <!-- .html is a workaround for Jekyll isuse which prevents custom CSS includes when deploying locally -->
   <a href="/blog">Blog</a>
-  <a href="/feedback">Feedback</a>
+  <a href="/feedback{% if page.lang == 'fr-FR' %}/fr-fr/{% endif %}">Feedback</a>
   <a href="javascript:void(0);" class="icon" onclick="expandMenu()">
     <img src="/images/menu-bar-white_2x.png" alt="Toggle navigation">
   </a>
@@ -32,7 +49,7 @@
 	{{ content }}
 </section>
 
-<footer>
+<footer lang="en">
     <br>
     <br>
     <p>© 2025 Cocoa Productions Ltd;

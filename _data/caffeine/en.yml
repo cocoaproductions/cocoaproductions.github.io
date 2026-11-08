@@ -1,0 +1,49 @@
+---
+title: Caffeine++ - Cocoa Productions
+description: Take control of your sleep by tracking your caffeine daily.
+hero_alt: Caffeine++ showing the Ready to Sleep chart and starred drinks
+app_store_locale: en-us
+app_store_alt: Download on the App Store
+health_alt: Works with Apple Health
+intro: Take control of your sleep by tracking your caffeine daily.
+features:
+- Ready to Sleep — track your sleep readiness
+- One Tap Log — add your starred drinks portions with one tap
+- Track caffeine, water, sugar, calories, pills, and alcohol
+- Access all your starred drinks through the Apple Watch app, without your iPhone
+- Apple Health syncing
+- Categorise your drinks by venue
+- Local data, zero telemetry, no A/B testing, no ads
+- Made by one person
+- Maintained for 4 years and counting
+pro_intro: 'Unlock **Caffeine++ Pro** with one lifetime purchase:'
+pro_features:
+- Reminders
+- Edit history (undo)
+- Data import / export
+- Share In-App Purchase with your family
+- Access all upcoming features
+notes:
+- "🤰 Please limit your caffeine intake to 200 mg if you're pregnant."
+- "⌚️ Apple Watch app requires Apple Health permissions for sync."
+privacy:
+  heading: Privacy policy (updated 2 February 2024)
+  access_heading: Apple Health access
+  access_text: Caffeine++ works best with read and write access to caffeine, water, sugar, and calories data.
+  read_heading: Read access
+  read_text: Allows us to display how much coffee you had directly in Caffeine++. We only store this data locally and erase everything older than 1 week. We even can display data you manually enter in Apple Health or data you log through other caffeine trackers from the App Store.
+  write_heading: Write access
+  write_text: Allows us to save your data into Apple Health for archiving. You can deny any of the write permissions and rely only on the app storage, however, we store your data locally only for 1 week.
+  summary_heading: Privacy summary
+  summary:
+  - Caffeine++ can use Apple Health access for storing data and displaying daily summary.
+  - Caffeine++ doesn’t require any personal user details to be entered anywhere in the app.
+  - Caffeine++ and its creators can not be held responsible for any incorrect user data entered in the app.
+  - Any user generated data that is entered from Caffeine++ is only stored on a users iPhone and, optionally, on Apple servers.
+  - We may store your email address for some time if you send support email to us within the app.
+contributions_heading: Third-party contributions
+contributions:
+- "[Caffeine Informer](https://www.caffeineinformer.com/the-caffeine-database) (data)"
+- "[Icons8](http://icons8.com) (iconography)"
+social_heading: Social
+social_text: Please visit [feedback](/feedback) page.

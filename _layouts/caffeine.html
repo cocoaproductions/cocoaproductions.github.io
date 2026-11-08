@@ -1,0 +1,68 @@
+---
+layout: default
+---
+{% assign locale = page.lang | default: 'en' | downcase %}
+{% assign copy = site.data.caffeine[locale] %}
+{% assign shared = site.data.caffeine.shared %}
+
+<h1 class="appName">{{ shared.app_name | escape }}</h1>
+<p class="hero" id="caffeineSlogan" lang="en">{{ shared.slogan | escape }}</p>
+
+<div class="caffeine-media">
+  <img class="screenshot caffeine-hero" src="/images/caffeine-ready-to-sleep.png" alt="{{ copy.hero_alt | escape }}" width="1531" height="2138">
+  <div class="caffeine-reviews" lang="en">
+    <img class="screenshot" title="{{ shared.review_one | escape }}" src="/images/review-box_2x.png" width="686" height="280">
+    <img class="screenshot" alt="{{ shared.review_two | escape }}" src="/images/review-box-2_2x.png" width="686" height="438">
+    <div class="caffeine-badges" lang="{{ page.lang | default: 'en' | escape }}">
+      <a class="caffeine-store-badge" href="https://apps.apple.com/app/caffeine/id1594448346"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/{{ copy.app_store_locale | escape }}?size=250x83&amp;releaseDate=1417564800" alt="{{ copy.app_store_alt | escape }}" width="250" height="83"></a>
+      <img src="/images/health-badge.svg" alt="{{ copy.health_alt | escape }}" width="165" height="40">
+    </div>
+  </div>
+</div>
+
+{{ copy.intro | markdownify }}
+
+<ul>
+  {% for feature in copy.features %}
+  <li>{{ feature | escape }}</li>
+  {% endfor %}
+</ul>
+
+{{ copy.pro_intro | markdownify }}
+
+<ul>
+  {% for feature in copy.pro_features %}
+  <li>{{ feature | escape }}</li>
+  {% endfor %}
+</ul>
+
+<p>{% for note in copy.notes %}{{ note | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% unless forloop.last %}<br>
+{% endunless %}{% endfor %}</p>
+
+<h2 id="policy">{{ copy.privacy.heading | escape }}</h2>
+
+<h3 id="{{ copy.privacy.access_heading | slugify: 'pretty' }}">{{ copy.privacy.access_heading | escape }}</h3>
+{{ copy.privacy.access_text | markdownify }}
+
+<h4 id="{{ copy.privacy.read_heading | slugify: 'pretty' }}">{{ copy.privacy.read_heading | escape }}</h4>
+{{ copy.privacy.read_text | markdownify }}
+
+<h4 id="{{ copy.privacy.write_heading | slugify: 'pretty' }}">{{ copy.privacy.write_heading | escape }}</h4>
+{{ copy.privacy.write_text | markdownify }}
+
+<h3 id="{{ copy.privacy.summary_heading | slugify: 'pretty' }}">{{ copy.privacy.summary_heading | escape }}</h3>
+<ul>
+  {% for item in copy.privacy.summary %}
+  <li>{{ item | escape }}</li>
+  {% endfor %}
+</ul>
+
+<h2 id="{{ copy.contributions_heading | slugify: 'pretty' }}">{{ copy.contributions_heading | escape }}</h2>
+<ul>
+  {% for contribution in copy.contributions %}
+  <li>{{ contribution | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
+  {% endfor %}
+</ul>
+
+<h2 id="{{ copy.social_heading | slugify: 'pretty' }}">{{ copy.social_heading | escape }}</h2>
+{{ copy.social_text | markdownify }}

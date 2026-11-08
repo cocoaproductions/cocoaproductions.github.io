@@ -1,0 +1,9 @@
+<script>
+(function () {
+  // Only the preferred browser language determines the automatic translation.
+  var language = (navigator.languages && navigator.languages[0]) || navigator.language || "";
+  if (/^fr(?:-|$)/i.test(language)) {
+    window.location.replace({{ page.french_url | relative_url | jsonify }} + window.location.search + window.location.hash);
+  }
+}());
+</script>

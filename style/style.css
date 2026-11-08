@@ -201,6 +201,59 @@ footer a {
     padding-bottom: 1em;
 }
 
+.caffeine-media {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 24px;
+    margin-bottom: 1em;
+}
+
+.caffeine-media .screenshot {
+    display: block;
+    padding-bottom: 0;
+}
+
+.caffeine-hero {
+    flex: 0 1 366px;
+    width: 100%;
+    max-width: 366px;
+}
+
+.caffeine-reviews {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    flex: 0 1 343px;
+    min-width: 0;
+    max-width: 100%;
+}
+
+.caffeine-reviews .screenshot {
+    width: 100%;
+}
+
+.caffeine-badges {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.caffeine-store-badge {
+    display: block;
+    width: 250px;
+    max-width: 100%;
+    overflow: hidden;
+    border-radius: 13px;
+}
+
+.caffeine-badges img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
 .badgesContainer > * {
     padding-bottom: 1em;
 }

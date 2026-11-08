@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{% assign locale = page.lang | default: 'en' | downcase %}
+{% assign copy = site.data.feedback[locale] %}
+
+<h1 id="{{ copy.heading | slugify: 'pretty' }}">{{ copy.heading | escape }}</h1>
+
+<h2 id="{{ copy.mastodon_heading | slugify: 'pretty' }}">{{ copy.mastodon_heading | escape }}</h2>
+<p>{{ copy.mastodon_prefix | escape }} <a rel="me" href="https://mastodonapp.uk/@CocoaProductions">Mastodon</a>{{ copy.mastodon_suffix | escape }}</p>
+
+<h2 id="{{ copy.email_heading | slugify: 'pretty' }}">{{ copy.email_heading | escape }}</h2>
+{{ copy.email_text | markdownify }}
+
+<p>📧 <a href="mailto:hello@cocoa.productions">{{ copy.email_label | escape }}</a></p>
